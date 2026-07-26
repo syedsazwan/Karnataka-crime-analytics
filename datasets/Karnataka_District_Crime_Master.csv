@@ -1,0 +1,1227 @@
+State,District,Year,Crime_Category,Crime_Category_Code,Total_Cases
+Karnataka,Bagalkot,2021,Crime_Against_Children,Children,124
+Karnataka,Ballari,2021,Crime_Against_Children,Children,230
+Karnataka,Belagavi,2021,Crime_Against_Children,Children,316
+Karnataka,Bengaluru Rural,2021,Crime_Against_Children,Children,298
+Karnataka,Bengaluru Urban,2021,Crime_Against_Children,Children,1342
+Karnataka,Bidar,2021,Crime_Against_Children,Children,129
+Karnataka,Chamarajanagara,2021,Crime_Against_Children,Children,94
+Karnataka,Chikkaballapura,2021,Crime_Against_Children,Children,310
+Karnataka,Chikkamagaluru,2021,Crime_Against_Children,Children,219
+Karnataka,Chitradurga,2021,Crime_Against_Children,Children,201
+Karnataka,Dakshina Kannada,2021,Crime_Against_Children,Children,306
+Karnataka,Davanagere,2021,Crime_Against_Children,Children,203
+Karnataka,Dharwad,2021,Crime_Against_Children,Children,129
+Karnataka,Gadag,2021,Crime_Against_Children,Children,58
+Karnataka,Hassan,2021,Crime_Against_Children,Children,252
+Karnataka,Haveri,2021,Crime_Against_Children,Children,209
+Karnataka,Kalaburagi,2021,Crime_Against_Children,Children,193
+Karnataka,Kodagu,2021,Crime_Against_Children,Children,106
+Karnataka,Kolar,2021,Crime_Against_Children,Children,157
+Karnataka,Koppal,2021,Crime_Against_Children,Children,79
+Karnataka,Mandya,2021,Crime_Against_Children,Children,293
+Karnataka,Mysuru,2021,Crime_Against_Children,Children,435
+Karnataka,Raichur,2021,Crime_Against_Children,Children,123
+Karnataka,Ramanagara,2021,Crime_Against_Children,Children,256
+Karnataka,Shivamogga,2021,Crime_Against_Children,Children,256
+Karnataka,Tumakuru,2021,Crime_Against_Children,Children,499
+Karnataka,Udupi,2021,Crime_Against_Children,Children,96
+Karnataka,Uttara Kannada,2021,Crime_Against_Children,Children,118
+Karnataka,Vijayapura,2021,Crime_Against_Children,Children,136
+Karnataka,Yadgir,2021,Crime_Against_Children,Children,89
+Karnataka,Bagalkot,2022,Crime_Against_Children,Children,123
+Karnataka,Ballari,2022,Crime_Against_Children,Children,102
+Karnataka,Belagavi,2022,Crime_Against_Children,Children,378
+Karnataka,Bengaluru Rural,2022,Crime_Against_Children,Children,376
+Karnataka,Bengaluru Urban,2022,Crime_Against_Children,Children,1578
+Karnataka,Bidar,2022,Crime_Against_Children,Children,144
+Karnataka,Chamarajanagara,2022,Crime_Against_Children,Children,116
+Karnataka,Chikkaballapura,2022,Crime_Against_Children,Children,248
+Karnataka,Chikkamagaluru,2022,Crime_Against_Children,Children,219
+Karnataka,Chitradurga,2022,Crime_Against_Children,Children,210
+Karnataka,Dakshina Kannada,2022,Crime_Against_Children,Children,310
+Karnataka,Davanagere,2022,Crime_Against_Children,Children,239
+Karnataka,Dharwad,2022,Crime_Against_Children,Children,165
+Karnataka,Gadag,2022,Crime_Against_Children,Children,72
+Karnataka,Hassan,2022,Crime_Against_Children,Children,257
+Karnataka,Haveri,2022,Crime_Against_Children,Children,146
+Karnataka,Kalaburagi,2022,Crime_Against_Children,Children,221
+Karnataka,Kodagu,2022,Crime_Against_Children,Children,129
+Karnataka,Kolar,2022,Crime_Against_Children,Children,208
+Karnataka,Koppal,2022,Crime_Against_Children,Children,152
+Karnataka,Mandya,2022,Crime_Against_Children,Children,275
+Karnataka,Mysuru,2022,Crime_Against_Children,Children,442
+Karnataka,Raichur,2022,Crime_Against_Children,Children,141
+Karnataka,Ramanagara,2022,Crime_Against_Children,Children,239
+Karnataka,Shivamogga,2022,Crime_Against_Children,Children,355
+Karnataka,Tumakuru,2022,Crime_Against_Children,Children,473
+Karnataka,Udupi,2022,Crime_Against_Children,Children,110
+Karnataka,Uttara Kannada,2022,Crime_Against_Children,Children,206
+Karnataka,Vijayanagara,2022,Crime_Against_Children,Children,101
+Karnataka,Vijayapura,2022,Crime_Against_Children,Children,156
+Karnataka,Yadgir,2022,Crime_Against_Children,Children,85
+Karnataka,Bagalkot,2023,Crime_Against_Children,Children,133
+Karnataka,Ballari,2023,Crime_Against_Children,Children,153
+Karnataka,Belagavi,2023,Crime_Against_Children,Children,352
+Karnataka,Bengaluru Rural,2023,Crime_Against_Children,Children,409
+Karnataka,Bengaluru Urban,2023,Crime_Against_Children,Children,1982
+Karnataka,Bidar,2023,Crime_Against_Children,Children,120
+Karnataka,Chamarajanagara,2023,Crime_Against_Children,Children,142
+Karnataka,Chikkaballapura,2023,Crime_Against_Children,Children,314
+Karnataka,Chikkamagaluru,2023,Crime_Against_Children,Children,201
+Karnataka,Chitradurga,2023,Crime_Against_Children,Children,255
+Karnataka,Dakshina Kannada,2023,Crime_Against_Children,Children,357
+Karnataka,Davanagere,2023,Crime_Against_Children,Children,229
+Karnataka,Dharwad,2023,Crime_Against_Children,Children,206
+Karnataka,Gadag,2023,Crime_Against_Children,Children,96
+Karnataka,Hassan,2023,Crime_Against_Children,Children,274
+Karnataka,Haveri,2023,Crime_Against_Children,Children,156
+Karnataka,Kalaburagi,2023,Crime_Against_Children,Children,260
+Karnataka,Kodagu,2023,Crime_Against_Children,Children,116
+Karnataka,Kolar,2023,Crime_Against_Children,Children,321
+Karnataka,Koppal,2023,Crime_Against_Children,Children,134
+Karnataka,Mandya,2023,Crime_Against_Children,Children,270
+Karnataka,Mysuru,2023,Crime_Against_Children,Children,389
+Karnataka,Raichur,2023,Crime_Against_Children,Children,143
+Karnataka,Ramanagara,2023,Crime_Against_Children,Children,262
+Karnataka,Shivamogga,2023,Crime_Against_Children,Children,367
+Karnataka,Tumakuru,2023,Crime_Against_Children,Children,574
+Karnataka,Udupi,2023,Crime_Against_Children,Children,105
+Karnataka,Uttara Kannada,2023,Crime_Against_Children,Children,165
+Karnataka,Vijayanagara,2023,Crime_Against_Children,Children,190
+Karnataka,Vijayapura,2023,Crime_Against_Children,Children,168
+Karnataka,Yadgir,2023,Crime_Against_Children,Children,76
+Karnataka,Bagalkot,2024,Crime_Against_Children,Children,0
+Karnataka,Ballari,2024,Crime_Against_Children,Children,0
+Karnataka,Belagavi,2024,Crime_Against_Children,Children,0
+Karnataka,Bengaluru Rural,2024,Crime_Against_Children,Children,0
+Karnataka,Bengaluru Urban,2024,Crime_Against_Children,Children,0
+Karnataka,Bidar,2024,Crime_Against_Children,Children,0
+Karnataka,Chamarajanagara,2024,Crime_Against_Children,Children,0
+Karnataka,Chikkaballapura,2024,Crime_Against_Children,Children,0
+Karnataka,Chikkamagaluru,2024,Crime_Against_Children,Children,0
+Karnataka,Chitradurga,2024,Crime_Against_Children,Children,0
+Karnataka,Dakshina Kannada,2024,Crime_Against_Children,Children,1
+Karnataka,Davanagere,2024,Crime_Against_Children,Children,0
+Karnataka,Dharwad,2024,Crime_Against_Children,Children,1
+Karnataka,Gadag,2024,Crime_Against_Children,Children,1
+Karnataka,Hassan,2024,Crime_Against_Children,Children,0
+Karnataka,Haveri,2024,Crime_Against_Children,Children,0
+Karnataka,Kalaburagi,2024,Crime_Against_Children,Children,0
+Karnataka,Kodagu,2024,Crime_Against_Children,Children,0
+Karnataka,Kolar,2024,Crime_Against_Children,Children,0
+Karnataka,Koppal,2024,Crime_Against_Children,Children,1
+Karnataka,Mandya,2024,Crime_Against_Children,Children,0
+Karnataka,Mysuru,2024,Crime_Against_Children,Children,0
+Karnataka,Raichur,2024,Crime_Against_Children,Children,0
+Karnataka,Ramanagara,2024,Crime_Against_Children,Children,0
+Karnataka,Shivamogga,2024,Crime_Against_Children,Children,0
+Karnataka,Tumakuru,2024,Crime_Against_Children,Children,0
+Karnataka,Udupi,2024,Crime_Against_Children,Children,0
+Karnataka,Uttara Kannada,2024,Crime_Against_Children,Children,0
+Karnataka,Vijayanagara,2024,Crime_Against_Children,Children,0
+Karnataka,Vijayapura,2024,Crime_Against_Children,Children,0
+Karnataka,Yadgir,2024,Crime_Against_Children,Children,0
+Karnataka,Bagalkot,2021,Cyber_Crimes,Cyber,20
+Karnataka,Ballari,2021,Cyber_Crimes,Cyber,59
+Karnataka,Belagavi,2021,Cyber_Crimes,Cyber,50
+Karnataka,Bengaluru Rural,2021,Cyber_Crimes,Cyber,85
+Karnataka,Bengaluru Urban,2021,Cyber_Crimes,Cyber,6423
+Karnataka,Bidar,2021,Cyber_Crimes,Cyber,6
+Karnataka,Chamarajanagara,2021,Cyber_Crimes,Cyber,10
+Karnataka,Chikkaballapura,2021,Cyber_Crimes,Cyber,47
+Karnataka,Chikkamagaluru,2021,Cyber_Crimes,Cyber,68
+Karnataka,Chitradurga,2021,Cyber_Crimes,Cyber,22
+Karnataka,Dakshina Kannada,2021,Cyber_Crimes,Cyber,165
+Karnataka,Davanagere,2021,Cyber_Crimes,Cyber,71
+Karnataka,Dharwad,2021,Cyber_Crimes,Cyber,172
+Karnataka,Gadag,2021,Cyber_Crimes,Cyber,15
+Karnataka,Hassan,2021,Cyber_Crimes,Cyber,46
+Karnataka,Haveri,2021,Cyber_Crimes,Cyber,65
+Karnataka,Kalaburagi,2021,Cyber_Crimes,Cyber,18
+Karnataka,Kodagu,2021,Cyber_Crimes,Cyber,41
+Karnataka,Kolar,2021,Cyber_Crimes,Cyber,89
+Karnataka,Koppal,2021,Cyber_Crimes,Cyber,15
+Karnataka,Mandya,2021,Cyber_Crimes,Cyber,31
+Karnataka,Mysuru,2021,Cyber_Crimes,Cyber,158
+Karnataka,Raichur,2021,Cyber_Crimes,Cyber,21
+Karnataka,Ramanagara,2021,Cyber_Crimes,Cyber,82
+Karnataka,Shivamogga,2021,Cyber_Crimes,Cyber,90
+Karnataka,Tumakuru,2021,Cyber_Crimes,Cyber,148
+Karnataka,Udupi,2021,Cyber_Crimes,Cyber,44
+Karnataka,Uttara Kannada,2021,Cyber_Crimes,Cyber,44
+Karnataka,Vijayapura,2021,Cyber_Crimes,Cyber,24
+Karnataka,Yadgir,2021,Cyber_Crimes,Cyber,7
+Karnataka,Bagalkot,2022,Cyber_Crimes,Cyber,21
+Karnataka,Ballari,2022,Cyber_Crimes,Cyber,44
+Karnataka,Belagavi,2022,Cyber_Crimes,Cyber,139
+Karnataka,Bengaluru Rural,2022,Cyber_Crimes,Cyber,239
+Karnataka,Bengaluru Urban,2022,Cyber_Crimes,Cyber,9940
+Karnataka,Bidar,2022,Cyber_Crimes,Cyber,19
+Karnataka,Chamarajanagara,2022,Cyber_Crimes,Cyber,20
+Karnataka,Chikkaballapura,2022,Cyber_Crimes,Cyber,96
+Karnataka,Chikkamagaluru,2022,Cyber_Crimes,Cyber,69
+Karnataka,Chitradurga,2022,Cyber_Crimes,Cyber,50
+Karnataka,Dakshina Kannada,2022,Cyber_Crimes,Cyber,97
+Karnataka,Davanagere,2022,Cyber_Crimes,Cyber,91
+Karnataka,Dharwad,2022,Cyber_Crimes,Cyber,355
+Karnataka,Gadag,2022,Cyber_Crimes,Cyber,16
+Karnataka,Hassan,2022,Cyber_Crimes,Cyber,43
+Karnataka,Haveri,2022,Cyber_Crimes,Cyber,118
+Karnataka,Kalaburagi,2022,Cyber_Crimes,Cyber,38
+Karnataka,Kodagu,2022,Cyber_Crimes,Cyber,28
+Karnataka,Kolar,2022,Cyber_Crimes,Cyber,110
+Karnataka,Koppal,2022,Cyber_Crimes,Cyber,22
+Karnataka,Mandya,2022,Cyber_Crimes,Cyber,56
+Karnataka,Mysuru,2022,Cyber_Crimes,Cyber,328
+Karnataka,Raichur,2022,Cyber_Crimes,Cyber,25
+Karnataka,Ramanagara,2022,Cyber_Crimes,Cyber,239
+Karnataka,Shivamogga,2022,Cyber_Crimes,Cyber,25
+Karnataka,Tumakuru,2022,Cyber_Crimes,Cyber,154
+Karnataka,Udupi,2022,Cyber_Crimes,Cyber,54
+Karnataka,Uttara Kannada,2022,Cyber_Crimes,Cyber,48
+Karnataka,Vijayanagara,2022,Cyber_Crimes,Cyber,5
+Karnataka,Vijayapura,2022,Cyber_Crimes,Cyber,59
+Karnataka,Yadgir,2022,Cyber_Crimes,Cyber,8
+Karnataka,Bagalkot,2023,Cyber_Crimes,Cyber,50
+Karnataka,Ballari,2023,Cyber_Crimes,Cyber,76
+Karnataka,Belagavi,2023,Cyber_Crimes,Cyber,167
+Karnataka,Bengaluru Rural,2023,Cyber_Crimes,Cyber,768
+Karnataka,Bengaluru Urban,2023,Cyber_Crimes,Cyber,17631
+Karnataka,Bidar,2023,Cyber_Crimes,Cyber,38
+Karnataka,Chamarajanagara,2023,Cyber_Crimes,Cyber,42
+Karnataka,Chikkaballapura,2023,Cyber_Crimes,Cyber,262
+Karnataka,Chikkamagaluru,2023,Cyber_Crimes,Cyber,98
+Karnataka,Chitradurga,2023,Cyber_Crimes,Cyber,58
+Karnataka,Dakshina Kannada,2023,Cyber_Crimes,Cyber,291
+Karnataka,Davanagere,2023,Cyber_Crimes,Cyber,95
+Karnataka,Dharwad,2023,Cyber_Crimes,Cyber,511
+Karnataka,Gadag,2023,Cyber_Crimes,Cyber,65
+Karnataka,Hassan,2023,Cyber_Crimes,Cyber,111
+Karnataka,Haveri,2023,Cyber_Crimes,Cyber,107
+Karnataka,Kalaburagi,2023,Cyber_Crimes,Cyber,60
+Karnataka,Kodagu,2023,Cyber_Crimes,Cyber,105
+Karnataka,Kolar,2023,Cyber_Crimes,Cyber,187
+Karnataka,Koppal,2023,Cyber_Crimes,Cyber,18
+Karnataka,Mandya,2023,Cyber_Crimes,Cyber,47
+Karnataka,Mysuru,2023,Cyber_Crimes,Cyber,274
+Karnataka,Raichur,2023,Cyber_Crimes,Cyber,29
+Karnataka,Ramanagara,2023,Cyber_Crimes,Cyber,159
+Karnataka,Shivamogga,2023,Cyber_Crimes,Cyber,54
+Karnataka,Tumakuru,2023,Cyber_Crimes,Cyber,252
+Karnataka,Udupi,2023,Cyber_Crimes,Cyber,129
+Karnataka,Uttara Kannada,2023,Cyber_Crimes,Cyber,80
+Karnataka,Vijayanagara,2023,Cyber_Crimes,Cyber,14
+Karnataka,Vijayapura,2023,Cyber_Crimes,Cyber,93
+Karnataka,Yadgir,2023,Cyber_Crimes,Cyber,17
+Karnataka,Bagalkot,2024,Cyber_Crimes,Cyber,47
+Karnataka,Ballari,2024,Cyber_Crimes,Cyber,118
+Karnataka,Belagavi,2024,Cyber_Crimes,Cyber,167
+Karnataka,Bengaluru Rural,2024,Cyber_Crimes,Cyber,844
+Karnataka,Bengaluru Urban,2024,Cyber_Crimes,Cyber,17561
+Karnataka,Bidar,2024,Cyber_Crimes,Cyber,41
+Karnataka,Chamarajanagara,2024,Cyber_Crimes,Cyber,24
+Karnataka,Chikkaballapura,2024,Cyber_Crimes,Cyber,189
+Karnataka,Chikkamagaluru,2024,Cyber_Crimes,Cyber,92
+Karnataka,Chitradurga,2024,Cyber_Crimes,Cyber,74
+Karnataka,Dakshina Kannada,2024,Cyber_Crimes,Cyber,241
+Karnataka,Davanagere,2024,Cyber_Crimes,Cyber,142
+Karnataka,Dharwad,2024,Cyber_Crimes,Cyber,308
+Karnataka,Gadag,2024,Cyber_Crimes,Cyber,67
+Karnataka,Hassan,2024,Cyber_Crimes,Cyber,131
+Karnataka,Haveri,2024,Cyber_Crimes,Cyber,125
+Karnataka,Kalaburagi,2024,Cyber_Crimes,Cyber,63
+Karnataka,Kodagu,2024,Cyber_Crimes,Cyber,82
+Karnataka,Kolar,2024,Cyber_Crimes,Cyber,155
+Karnataka,Koppal,2024,Cyber_Crimes,Cyber,27
+Karnataka,Mandya,2024,Cyber_Crimes,Cyber,67
+Karnataka,Mysuru,2024,Cyber_Crimes,Cyber,306
+Karnataka,Raichur,2024,Cyber_Crimes,Cyber,21
+Karnataka,Ramanagara,2024,Cyber_Crimes,Cyber,236
+Karnataka,Shivamogga,2024,Cyber_Crimes,Cyber,123
+Karnataka,Tumakuru,2024,Cyber_Crimes,Cyber,322
+Karnataka,Udupi,2024,Cyber_Crimes,Cyber,203
+Karnataka,Uttara Kannada,2024,Cyber_Crimes,Cyber,96
+Karnataka,Vijayanagara,2024,Cyber_Crimes,Cyber,22
+Karnataka,Vijayapura,2024,Cyber_Crimes,Cyber,80
+Karnataka,Yadgir,2024,Cyber_Crimes,Cyber,19
+Karnataka,Bagalkot,2021,IPC_BNS_Crimes,IPC,2025
+Karnataka,Ballari,2021,IPC_BNS_Crimes,IPC,3750
+Karnataka,Belagavi,2021,IPC_BNS_Crimes,IPC,6009
+Karnataka,Bengaluru Rural,2021,IPC_BNS_Crimes,IPC,5179
+Karnataka,Bengaluru Urban,2021,IPC_BNS_Crimes,IPC,21548
+Karnataka,Bidar,2021,IPC_BNS_Crimes,IPC,2826
+Karnataka,Chamarajanagara,2021,IPC_BNS_Crimes,IPC,1595
+Karnataka,Chikkaballapura,2021,IPC_BNS_Crimes,IPC,2334
+Karnataka,Chikkamagaluru,2021,IPC_BNS_Crimes,IPC,2600
+Karnataka,Chitradurga,2021,IPC_BNS_Crimes,IPC,4332
+Karnataka,Dakshina Kannada,2021,IPC_BNS_Crimes,IPC,4065
+Karnataka,Davanagere,2021,IPC_BNS_Crimes,IPC,2849
+Karnataka,Dharwad,2021,IPC_BNS_Crimes,IPC,2938
+Karnataka,Gadag,2021,IPC_BNS_Crimes,IPC,901
+Karnataka,Hassan,2021,IPC_BNS_Crimes,IPC,4830
+Karnataka,Haveri,2021,IPC_BNS_Crimes,IPC,2187
+Karnataka,Kalaburagi,2021,IPC_BNS_Crimes,IPC,4388
+Karnataka,Kodagu,2021,IPC_BNS_Crimes,IPC,1347
+Karnataka,Kolar,2021,IPC_BNS_Crimes,IPC,2558
+Karnataka,Koppal,2021,IPC_BNS_Crimes,IPC,1759
+Karnataka,Mandya,2021,IPC_BNS_Crimes,IPC,4865
+Karnataka,Mysuru,2021,IPC_BNS_Crimes,IPC,6471
+Karnataka,Raichur,2021,IPC_BNS_Crimes,IPC,2598
+Karnataka,Ramanagara,2021,IPC_BNS_Crimes,IPC,3243
+Karnataka,Shivamogga,2021,IPC_BNS_Crimes,IPC,4068
+Karnataka,Tumakuru,2021,IPC_BNS_Crimes,IPC,4813
+Karnataka,Udupi,2021,IPC_BNS_Crimes,IPC,2284
+Karnataka,Uttara Kannada,2021,IPC_BNS_Crimes,IPC,2078
+Karnataka,Vijayapura,2021,IPC_BNS_Crimes,IPC,2987
+Karnataka,Yadgir,2021,IPC_BNS_Crimes,IPC,1412
+Karnataka,Bagalkot,2022,IPC_BNS_Crimes,IPC,2199
+Karnataka,Ballari,2022,IPC_BNS_Crimes,IPC,1792
+Karnataka,Belagavi,2022,IPC_BNS_Crimes,IPC,6424
+Karnataka,Bengaluru Rural,2022,IPC_BNS_Crimes,IPC,6031
+Karnataka,Bengaluru Urban,2022,IPC_BNS_Crimes,IPC,28666
+Karnataka,Bidar,2022,IPC_BNS_Crimes,IPC,3136
+Karnataka,Chamarajanagara,2022,IPC_BNS_Crimes,IPC,1705
+Karnataka,Chikkaballapura,2022,IPC_BNS_Crimes,IPC,2577
+Karnataka,Chikkamagaluru,2022,IPC_BNS_Crimes,IPC,2759
+Karnataka,Chitradurga,2022,IPC_BNS_Crimes,IPC,4057
+Karnataka,Dakshina Kannada,2022,IPC_BNS_Crimes,IPC,3791
+Karnataka,Davanagere,2022,IPC_BNS_Crimes,IPC,3396
+Karnataka,Dharwad,2022,IPC_BNS_Crimes,IPC,3199
+Karnataka,Gadag,2022,IPC_BNS_Crimes,IPC,1060
+Karnataka,Hassan,2022,IPC_BNS_Crimes,IPC,4652
+Karnataka,Haveri,2022,IPC_BNS_Crimes,IPC,2409
+Karnataka,Kalaburagi,2022,IPC_BNS_Crimes,IPC,4230
+Karnataka,Kodagu,2022,IPC_BNS_Crimes,IPC,1355
+Karnataka,Kolar,2022,IPC_BNS_Crimes,IPC,3272
+Karnataka,Koppal,2022,IPC_BNS_Crimes,IPC,2175
+Karnataka,Mandya,2022,IPC_BNS_Crimes,IPC,4830
+Karnataka,Mysuru,2022,IPC_BNS_Crimes,IPC,6973
+Karnataka,Raichur,2022,IPC_BNS_Crimes,IPC,2577
+Karnataka,Ramanagara,2022,IPC_BNS_Crimes,IPC,4155
+Karnataka,Shivamogga,2022,IPC_BNS_Crimes,IPC,4591
+Karnataka,Tumakuru,2022,IPC_BNS_Crimes,IPC,5520
+Karnataka,Udupi,2022,IPC_BNS_Crimes,IPC,2342
+Karnataka,Uttara Kannada,2022,IPC_BNS_Crimes,IPC,2323
+Karnataka,Vijayanagara,2022,IPC_BNS_Crimes,IPC,1795
+Karnataka,Vijayapura,2022,IPC_BNS_Crimes,IPC,2858
+Karnataka,Yadgir,2022,IPC_BNS_Crimes,IPC,1316
+Karnataka,Bagalkot,2023,IPC_BNS_Crimes,IPC,2317
+Karnataka,Ballari,2023,IPC_BNS_Crimes,IPC,2053
+Karnataka,Belagavi,2023,IPC_BNS_Crimes,IPC,6649
+Karnataka,Bengaluru Rural,2023,IPC_BNS_Crimes,IPC,7568
+Karnataka,Bengaluru Urban,2023,IPC_BNS_Crimes,IPC,41637
+Karnataka,Bidar,2023,IPC_BNS_Crimes,IPC,3110
+Karnataka,Chamarajanagara,2023,IPC_BNS_Crimes,IPC,1951
+Karnataka,Chikkaballapura,2023,IPC_BNS_Crimes,IPC,2734
+Karnataka,Chikkamagaluru,2023,IPC_BNS_Crimes,IPC,3036
+Karnataka,Chitradurga,2023,IPC_BNS_Crimes,IPC,4367
+Karnataka,Dakshina Kannada,2023,IPC_BNS_Crimes,IPC,3957
+Karnataka,Davanagere,2023,IPC_BNS_Crimes,IPC,3755
+Karnataka,Dharwad,2023,IPC_BNS_Crimes,IPC,3013
+Karnataka,Gadag,2023,IPC_BNS_Crimes,IPC,1229
+Karnataka,Hassan,2023,IPC_BNS_Crimes,IPC,5163
+Karnataka,Haveri,2023,IPC_BNS_Crimes,IPC,2519
+Karnataka,Kalaburagi,2023,IPC_BNS_Crimes,IPC,4667
+Karnataka,Kodagu,2023,IPC_BNS_Crimes,IPC,1576
+Karnataka,Kolar,2023,IPC_BNS_Crimes,IPC,3388
+Karnataka,Koppal,2023,IPC_BNS_Crimes,IPC,1819
+Karnataka,Mandya,2023,IPC_BNS_Crimes,IPC,4932
+Karnataka,Mysuru,2023,IPC_BNS_Crimes,IPC,7095
+Karnataka,Raichur,2023,IPC_BNS_Crimes,IPC,2642
+Karnataka,Ramanagara,2023,IPC_BNS_Crimes,IPC,4163
+Karnataka,Shivamogga,2023,IPC_BNS_Crimes,IPC,4654
+Karnataka,Tumakuru,2023,IPC_BNS_Crimes,IPC,6440
+Karnataka,Udupi,2023,IPC_BNS_Crimes,IPC,2444
+Karnataka,Uttara Kannada,2023,IPC_BNS_Crimes,IPC,2460
+Karnataka,Vijayanagara,2023,IPC_BNS_Crimes,IPC,1837
+Karnataka,Vijayapura,2023,IPC_BNS_Crimes,IPC,3103
+Karnataka,Yadgir,2023,IPC_BNS_Crimes,IPC,1442
+Karnataka,Bagalkot,2024,IPC_BNS_Crimes,IPC,2219
+Karnataka,Ballari,2024,IPC_BNS_Crimes,IPC,1997
+Karnataka,Belagavi,2024,IPC_BNS_Crimes,IPC,6190
+Karnataka,Bengaluru Rural,2024,IPC_BNS_Crimes,IPC,7636
+Karnataka,Bengaluru Urban,2024,IPC_BNS_Crimes,IPC,34715
+Karnataka,Bidar,2024,IPC_BNS_Crimes,IPC,2976
+Karnataka,Chamarajanagara,2024,IPC_BNS_Crimes,IPC,2031
+Karnataka,Chikkaballapura,2024,IPC_BNS_Crimes,IPC,2701
+Karnataka,Chikkamagaluru,2024,IPC_BNS_Crimes,IPC,2649
+Karnataka,Chitradurga,2024,IPC_BNS_Crimes,IPC,4426
+Karnataka,Dakshina Kannada,2024,IPC_BNS_Crimes,IPC,3912
+Karnataka,Davanagere,2024,IPC_BNS_Crimes,IPC,3146
+Karnataka,Dharwad,2024,IPC_BNS_Crimes,IPC,2882
+Karnataka,Gadag,2024,IPC_BNS_Crimes,IPC,1071
+Karnataka,Hassan,2024,IPC_BNS_Crimes,IPC,5097
+Karnataka,Haveri,2024,IPC_BNS_Crimes,IPC,2448
+Karnataka,Kalaburagi,2024,IPC_BNS_Crimes,IPC,4425
+Karnataka,Kodagu,2024,IPC_BNS_Crimes,IPC,1499
+Karnataka,Kolar,2024,IPC_BNS_Crimes,IPC,3048
+Karnataka,Koppal,2024,IPC_BNS_Crimes,IPC,1774
+Karnataka,Mandya,2024,IPC_BNS_Crimes,IPC,4363
+Karnataka,Mysuru,2024,IPC_BNS_Crimes,IPC,7408
+Karnataka,Raichur,2024,IPC_BNS_Crimes,IPC,2798
+Karnataka,Ramanagara,2024,IPC_BNS_Crimes,IPC,4010
+Karnataka,Shivamogga,2024,IPC_BNS_Crimes,IPC,4588
+Karnataka,Tumakuru,2024,IPC_BNS_Crimes,IPC,6352
+Karnataka,Udupi,2024,IPC_BNS_Crimes,IPC,2707
+Karnataka,Uttara Kannada,2024,IPC_BNS_Crimes,IPC,2577
+Karnataka,Vijayanagara,2024,IPC_BNS_Crimes,IPC,1688
+Karnataka,Vijayapura,2024,IPC_BNS_Crimes,IPC,3005
+Karnataka,Yadgir,2024,IPC_BNS_Crimes,IPC,1582
+Karnataka,Bagalkot,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ballari,2021,Juvenile_IPC_Crimes,Juvenile_IPC,12
+Karnataka,Belagavi,2021,Juvenile_IPC_Crimes,Juvenile_IPC,25
+Karnataka,Bengaluru Rural,2021,Juvenile_IPC_Crimes,Juvenile_IPC,12
+Karnataka,Bengaluru Urban,2021,Juvenile_IPC_Crimes,Juvenile_IPC,150
+Karnataka,Bidar,2021,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Chamarajanagara,2021,Juvenile_IPC_Crimes,Juvenile_IPC,9
+Karnataka,Chikkaballapura,2021,Juvenile_IPC_Crimes,Juvenile_IPC,11
+Karnataka,Chikkamagaluru,2021,Juvenile_IPC_Crimes,Juvenile_IPC,1
+Karnataka,Chitradurga,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Dakshina Kannada,2021,Juvenile_IPC_Crimes,Juvenile_IPC,4
+Karnataka,Davanagere,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Dharwad,2021,Juvenile_IPC_Crimes,Juvenile_IPC,20
+Karnataka,Gadag,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Hassan,2021,Juvenile_IPC_Crimes,Juvenile_IPC,8
+Karnataka,Haveri,2021,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Kalaburagi,2021,Juvenile_IPC_Crimes,Juvenile_IPC,18
+Karnataka,Kodagu,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Kolar,2021,Juvenile_IPC_Crimes,Juvenile_IPC,13
+Karnataka,Koppal,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Mandya,2021,Juvenile_IPC_Crimes,Juvenile_IPC,22
+Karnataka,Mysuru,2021,Juvenile_IPC_Crimes,Juvenile_IPC,14
+Karnataka,Raichur,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ramanagara,2021,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Shivamogga,2021,Juvenile_IPC_Crimes,Juvenile_IPC,12
+Karnataka,Tumakuru,2021,Juvenile_IPC_Crimes,Juvenile_IPC,35
+Karnataka,Udupi,2021,Juvenile_IPC_Crimes,Juvenile_IPC,2
+Karnataka,Uttara Kannada,2021,Juvenile_IPC_Crimes,Juvenile_IPC,8
+Karnataka,Vijayapura,2021,Juvenile_IPC_Crimes,Juvenile_IPC,20
+Karnataka,Yadgir,2021,Juvenile_IPC_Crimes,Juvenile_IPC,11
+Karnataka,Bagalkot,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ballari,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Belagavi,2022,Juvenile_IPC_Crimes,Juvenile_IPC,6
+Karnataka,Bengaluru Rural,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Bengaluru Urban,2022,Juvenile_IPC_Crimes,Juvenile_IPC,168
+Karnataka,Bidar,2022,Juvenile_IPC_Crimes,Juvenile_IPC,9
+Karnataka,Chamarajanagara,2022,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Chikkaballapura,2022,Juvenile_IPC_Crimes,Juvenile_IPC,7
+Karnataka,Chikkamagaluru,2022,Juvenile_IPC_Crimes,Juvenile_IPC,2
+Karnataka,Chitradurga,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Dakshina Kannada,2022,Juvenile_IPC_Crimes,Juvenile_IPC,5
+Karnataka,Davanagere,2022,Juvenile_IPC_Crimes,Juvenile_IPC,3
+Karnataka,Dharwad,2022,Juvenile_IPC_Crimes,Juvenile_IPC,18
+Karnataka,Gadag,2022,Juvenile_IPC_Crimes,Juvenile_IPC,4
+Karnataka,Hassan,2022,Juvenile_IPC_Crimes,Juvenile_IPC,9
+Karnataka,Haveri,2022,Juvenile_IPC_Crimes,Juvenile_IPC,12
+Karnataka,Kalaburagi,2022,Juvenile_IPC_Crimes,Juvenile_IPC,17
+Karnataka,Kodagu,2022,Juvenile_IPC_Crimes,Juvenile_IPC,8
+Karnataka,Kolar,2022,Juvenile_IPC_Crimes,Juvenile_IPC,18
+Karnataka,Koppal,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Mandya,2022,Juvenile_IPC_Crimes,Juvenile_IPC,28
+Karnataka,Mysuru,2022,Juvenile_IPC_Crimes,Juvenile_IPC,20
+Karnataka,Raichur,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ramanagara,2022,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Shivamogga,2022,Juvenile_IPC_Crimes,Juvenile_IPC,22
+Karnataka,Tumakuru,2022,Juvenile_IPC_Crimes,Juvenile_IPC,26
+Karnataka,Udupi,2022,Juvenile_IPC_Crimes,Juvenile_IPC,5
+Karnataka,Uttara Kannada,2022,Juvenile_IPC_Crimes,Juvenile_IPC,15
+Karnataka,Vijayanagara,2022,Juvenile_IPC_Crimes,Juvenile_IPC,4
+Karnataka,Vijayapura,2022,Juvenile_IPC_Crimes,Juvenile_IPC,39
+Karnataka,Yadgir,2022,Juvenile_IPC_Crimes,Juvenile_IPC,14
+Karnataka,Bagalkot,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ballari,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Belagavi,2023,Juvenile_IPC_Crimes,Juvenile_IPC,9
+Karnataka,Bengaluru Rural,2023,Juvenile_IPC_Crimes,Juvenile_IPC,50
+Karnataka,Bengaluru Urban,2023,Juvenile_IPC_Crimes,Juvenile_IPC,372
+Karnataka,Bidar,2023,Juvenile_IPC_Crimes,Juvenile_IPC,26
+Karnataka,Chamarajanagara,2023,Juvenile_IPC_Crimes,Juvenile_IPC,7
+Karnataka,Chikkaballapura,2023,Juvenile_IPC_Crimes,Juvenile_IPC,5
+Karnataka,Chikkamagaluru,2023,Juvenile_IPC_Crimes,Juvenile_IPC,22
+Karnataka,Chitradurga,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Dakshina Kannada,2023,Juvenile_IPC_Crimes,Juvenile_IPC,13
+Karnataka,Davanagere,2023,Juvenile_IPC_Crimes,Juvenile_IPC,3
+Karnataka,Dharwad,2023,Juvenile_IPC_Crimes,Juvenile_IPC,2
+Karnataka,Gadag,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Hassan,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Haveri,2023,Juvenile_IPC_Crimes,Juvenile_IPC,24
+Karnataka,Kalaburagi,2023,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Kodagu,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Kolar,2023,Juvenile_IPC_Crimes,Juvenile_IPC,29
+Karnataka,Koppal,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Mandya,2023,Juvenile_IPC_Crimes,Juvenile_IPC,28
+Karnataka,Mysuru,2023,Juvenile_IPC_Crimes,Juvenile_IPC,17
+Karnataka,Raichur,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Ramanagara,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Shivamogga,2023,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Tumakuru,2023,Juvenile_IPC_Crimes,Juvenile_IPC,25
+Karnataka,Udupi,2023,Juvenile_IPC_Crimes,Juvenile_IPC,7
+Karnataka,Uttara Kannada,2023,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Vijayanagara,2023,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Vijayapura,2023,Juvenile_IPC_Crimes,Juvenile_IPC,38
+Karnataka,Yadgir,2023,Juvenile_IPC_Crimes,Juvenile_IPC,10
+Karnataka,Bagalkot,2024,Juvenile_IPC_Crimes,Juvenile_IPC,34
+Karnataka,Ballari,2024,Juvenile_IPC_Crimes,Juvenile_IPC,19
+Karnataka,Belagavi,2024,Juvenile_IPC_Crimes,Juvenile_IPC,38
+Karnataka,Bengaluru Rural,2024,Juvenile_IPC_Crimes,Juvenile_IPC,51
+Karnataka,Bengaluru Urban,2024,Juvenile_IPC_Crimes,Juvenile_IPC,324
+Karnataka,Bidar,2024,Juvenile_IPC_Crimes,Juvenile_IPC,24
+Karnataka,Chamarajanagara,2024,Juvenile_IPC_Crimes,Juvenile_IPC,29
+Karnataka,Chikkaballapura,2024,Juvenile_IPC_Crimes,Juvenile_IPC,33
+Karnataka,Chikkamagaluru,2024,Juvenile_IPC_Crimes,Juvenile_IPC,1
+Karnataka,Chitradurga,2024,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Dakshina Kannada,2024,Juvenile_IPC_Crimes,Juvenile_IPC,15
+Karnataka,Davanagere,2024,Juvenile_IPC_Crimes,Juvenile_IPC,1
+Karnataka,Dharwad,2024,Juvenile_IPC_Crimes,Juvenile_IPC,6
+Karnataka,Gadag,2024,Juvenile_IPC_Crimes,Juvenile_IPC,21
+Karnataka,Hassan,2024,Juvenile_IPC_Crimes,Juvenile_IPC,22
+Karnataka,Haveri,2024,Juvenile_IPC_Crimes,Juvenile_IPC,18
+Karnataka,Kalaburagi,2024,Juvenile_IPC_Crimes,Juvenile_IPC,13
+Karnataka,Kodagu,2024,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Kolar,2024,Juvenile_IPC_Crimes,Juvenile_IPC,26
+Karnataka,Koppal,2024,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Mandya,2024,Juvenile_IPC_Crimes,Juvenile_IPC,14
+Karnataka,Mysuru,2024,Juvenile_IPC_Crimes,Juvenile_IPC,21
+Karnataka,Raichur,2024,Juvenile_IPC_Crimes,Juvenile_IPC,43
+Karnataka,Ramanagara,2024,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Shivamogga,2024,Juvenile_IPC_Crimes,Juvenile_IPC,15
+Karnataka,Tumakuru,2024,Juvenile_IPC_Crimes,Juvenile_IPC,19
+Karnataka,Udupi,2024,Juvenile_IPC_Crimes,Juvenile_IPC,8
+Karnataka,Uttara Kannada,2024,Juvenile_IPC_Crimes,Juvenile_IPC,21
+Karnataka,Vijayanagara,2024,Juvenile_IPC_Crimes,Juvenile_IPC,0
+Karnataka,Vijayapura,2024,Juvenile_IPC_Crimes,Juvenile_IPC,42
+Karnataka,Yadgir,2024,Juvenile_IPC_Crimes,Juvenile_IPC,24
+Karnataka,Bagalkot,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ballari,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Belagavi,2021,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Bengaluru Rural,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bengaluru Urban,2021,Juvenile_SLL_Crimes,Juvenile_SLL,27
+Karnataka,Bidar,2021,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Chamarajanagara,2021,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Chikkaballapura,2021,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Chikkamagaluru,2021,Juvenile_SLL_Crimes,Juvenile_SLL,9
+Karnataka,Chitradurga,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dakshina Kannada,2021,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Davanagere,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dharwad,2021,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Gadag,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Hassan,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Haveri,2021,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Kalaburagi,2021,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Kodagu,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Kolar,2021,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Koppal,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Mandya,2021,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Mysuru,2021,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Raichur,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ramanagara,2021,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Shivamogga,2021,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Tumakuru,2021,Juvenile_SLL_Crimes,Juvenile_SLL,8
+Karnataka,Udupi,2021,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Uttara Kannada,2021,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Vijayapura,2021,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Yadgir,2021,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Bagalkot,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ballari,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Belagavi,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bengaluru Rural,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bengaluru Urban,2022,Juvenile_SLL_Crimes,Juvenile_SLL,32
+Karnataka,Bidar,2022,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Chamarajanagara,2022,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Chikkaballapura,2022,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Chikkamagaluru,2022,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Chitradurga,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dakshina Kannada,2022,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Davanagere,2022,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Dharwad,2022,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Gadag,2022,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Hassan,2022,Juvenile_SLL_Crimes,Juvenile_SLL,8
+Karnataka,Haveri,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Kalaburagi,2022,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Kodagu,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Kolar,2022,Juvenile_SLL_Crimes,Juvenile_SLL,1
+Karnataka,Koppal,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Mandya,2022,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Mysuru,2022,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Raichur,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ramanagara,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Shivamogga,2022,Juvenile_SLL_Crimes,Juvenile_SLL,9
+Karnataka,Tumakuru,2022,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Udupi,2022,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Uttara Kannada,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Vijayanagara,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Vijayapura,2022,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Yadgir,2022,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bagalkot,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ballari,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Belagavi,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bengaluru Rural,2023,Juvenile_SLL_Crimes,Juvenile_SLL,16
+Karnataka,Bengaluru Urban,2023,Juvenile_SLL_Crimes,Juvenile_SLL,55
+Karnataka,Bidar,2023,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Chamarajanagara,2023,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Chikkaballapura,2023,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Chikkamagaluru,2023,Juvenile_SLL_Crimes,Juvenile_SLL,8
+Karnataka,Chitradurga,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dakshina Kannada,2023,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Davanagere,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dharwad,2023,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Gadag,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Hassan,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Haveri,2023,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Kalaburagi,2023,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Kodagu,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Kolar,2023,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Koppal,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Mandya,2023,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Mysuru,2023,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Raichur,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Ramanagara,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Shivamogga,2023,Juvenile_SLL_Crimes,Juvenile_SLL,12
+Karnataka,Tumakuru,2023,Juvenile_SLL_Crimes,Juvenile_SLL,9
+Karnataka,Udupi,2023,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Uttara Kannada,2023,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Vijayanagara,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Vijayapura,2023,Juvenile_SLL_Crimes,Juvenile_SLL,9
+Karnataka,Yadgir,2023,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Bagalkot,2024,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Ballari,2024,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Belagavi,2024,Juvenile_SLL_Crimes,Juvenile_SLL,14
+Karnataka,Bengaluru Rural,2024,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Bengaluru Urban,2024,Juvenile_SLL_Crimes,Juvenile_SLL,62
+Karnataka,Bidar,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Chamarajanagara,2024,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Chikkaballapura,2024,Juvenile_SLL_Crimes,Juvenile_SLL,7
+Karnataka,Chikkamagaluru,2024,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Chitradurga,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dakshina Kannada,2024,Juvenile_SLL_Crimes,Juvenile_SLL,8
+Karnataka,Davanagere,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Dharwad,2024,Juvenile_SLL_Crimes,Juvenile_SLL,9
+Karnataka,Gadag,2024,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Hassan,2024,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Haveri,2024,Juvenile_SLL_Crimes,Juvenile_SLL,10
+Karnataka,Kalaburagi,2024,Juvenile_SLL_Crimes,Juvenile_SLL,3
+Karnataka,Kodagu,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Kolar,2024,Juvenile_SLL_Crimes,Juvenile_SLL,4
+Karnataka,Koppal,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Mandya,2024,Juvenile_SLL_Crimes,Juvenile_SLL,16
+Karnataka,Mysuru,2024,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Raichur,2024,Juvenile_SLL_Crimes,Juvenile_SLL,12
+Karnataka,Ramanagara,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Shivamogga,2024,Juvenile_SLL_Crimes,Juvenile_SLL,17
+Karnataka,Tumakuru,2024,Juvenile_SLL_Crimes,Juvenile_SLL,12
+Karnataka,Udupi,2024,Juvenile_SLL_Crimes,Juvenile_SLL,2
+Karnataka,Uttara Kannada,2024,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Vijayanagara,2024,Juvenile_SLL_Crimes,Juvenile_SLL,0
+Karnataka,Vijayapura,2024,Juvenile_SLL_Crimes,Juvenile_SLL,6
+Karnataka,Yadgir,2024,Juvenile_SLL_Crimes,Juvenile_SLL,5
+Karnataka,Ballari,2021,Missing_Persons,Missing,166
+Karnataka,Belagavi,2021,Missing_Persons,Missing,211
+Karnataka,Bengaluru Rural,2021,Missing_Persons,Missing,346
+Karnataka,Bengaluru Urban,2021,Missing_Persons,Missing,1625
+Karnataka,Bidar,2021,Missing_Persons,Missing,62
+Karnataka,Chamarajanagara,2021,Missing_Persons,Missing,69
+Karnataka,Chikkaballapura,2021,Missing_Persons,Missing,110
+Karnataka,Chikkamagaluru,2021,Missing_Persons,Missing,107
+Karnataka,Chitradurga,2021,Missing_Persons,Missing,144
+Karnataka,Dakshina Kannada,2021,Missing_Persons,Missing,179
+Karnataka,Davanagere,2021,Missing_Persons,Missing,179
+Karnataka,Dharwad,2021,Missing_Persons,Missing,151
+Karnataka,Gadag,2021,Missing_Persons,Missing,60
+Karnataka,Hassan,2021,Missing_Persons,Missing,142
+Karnataka,Haveri,2021,Missing_Persons,Missing,88
+Karnataka,Kalaburagi,2021,Missing_Persons,Missing,101
+Karnataka,Kodagu,2021,Missing_Persons,Missing,57
+Karnataka,Kolar,2021,Missing_Persons,Missing,111
+Karnataka,Koppal,2021,Missing_Persons,Missing,46
+Karnataka,Mandya,2021,Missing_Persons,Missing,196
+Karnataka,Mysuru,2021,Missing_Persons,Missing,395
+Karnataka,Raichur,2021,Missing_Persons,Missing,59
+Karnataka,Ramanagara,2021,Missing_Persons,Missing,174
+Karnataka,Shivamogga,2021,Missing_Persons,Missing,244
+Karnataka,Tumakuru,2021,Missing_Persons,Missing,184
+Karnataka,Udupi,2021,Missing_Persons,Missing,103
+Karnataka,Uttara Kannada,2021,Missing_Persons,Missing,116
+Karnataka,Vijayapura,2021,Missing_Persons,Missing,93
+Karnataka,Yadgir,2021,Missing_Persons,Missing,33
+Karnataka,Ballari,2022,Missing_Persons,Missing,121
+Karnataka,Belagavi,2022,Missing_Persons,Missing,283
+Karnataka,Bengaluru Rural,2022,Missing_Persons,Missing,363
+Karnataka,Bengaluru Urban,2022,Missing_Persons,Missing,2009
+Karnataka,Bidar,2022,Missing_Persons,Missing,71
+Karnataka,Chamarajanagara,2022,Missing_Persons,Missing,101
+Karnataka,Chikkaballapura,2022,Missing_Persons,Missing,133
+Karnataka,Chikkamagaluru,2022,Missing_Persons,Missing,152
+Karnataka,Chitradurga,2022,Missing_Persons,Missing,174
+Karnataka,Dakshina Kannada,2022,Missing_Persons,Missing,188
+Karnataka,Davanagere,2022,Missing_Persons,Missing,248
+Karnataka,Dharwad,2022,Missing_Persons,Missing,212
+Karnataka,Gadag,2022,Missing_Persons,Missing,69
+Karnataka,Hassan,2022,Missing_Persons,Missing,127
+Karnataka,Haveri,2022,Missing_Persons,Missing,107
+Karnataka,Kalaburagi,2022,Missing_Persons,Missing,118
+Karnataka,Kodagu,2022,Missing_Persons,Missing,60
+Karnataka,Kolar,2022,Missing_Persons,Missing,217
+Karnataka,Koppal,2022,Missing_Persons,Missing,76
+Karnataka,Mandya,2022,Missing_Persons,Missing,256
+Karnataka,Mysuru,2022,Missing_Persons,Missing,481
+Karnataka,Raichur,2022,Missing_Persons,Missing,88
+Karnataka,Ramanagara,2022,Missing_Persons,Missing,277
+Karnataka,Shivamogga,2022,Missing_Persons,Missing,305
+Karnataka,Tumakuru,2022,Missing_Persons,Missing,213
+Karnataka,Udupi,2022,Missing_Persons,Missing,122
+Karnataka,Uttara Kannada,2022,Missing_Persons,Missing,149
+Karnataka,Vijayanagara,2022,Missing_Persons,Missing,88
+Karnataka,Vijayapura,2022,Missing_Persons,Missing,139
+Karnataka,Yadgir,2022,Missing_Persons,Missing,27
+Karnataka,Ballari,2023,Missing_Persons,Missing,105
+Karnataka,Belagavi,2023,Missing_Persons,Missing,351
+Karnataka,Bengaluru Rural,2023,Missing_Persons,Missing,503
+Karnataka,Bengaluru Urban,2023,Missing_Persons,Missing,2443
+Karnataka,Bidar,2023,Missing_Persons,Missing,93
+Karnataka,Chamarajanagara,2023,Missing_Persons,Missing,108
+Karnataka,Chikkaballapura,2023,Missing_Persons,Missing,159
+Karnataka,Chikkamagaluru,2023,Missing_Persons,Missing,153
+Karnataka,Chitradurga,2023,Missing_Persons,Missing,233
+Karnataka,Dakshina Kannada,2023,Missing_Persons,Missing,193
+Karnataka,Davanagere,2023,Missing_Persons,Missing,305
+Karnataka,Dharwad,2023,Missing_Persons,Missing,254
+Karnataka,Gadag,2023,Missing_Persons,Missing,72
+Karnataka,Hassan,2023,Missing_Persons,Missing,186
+Karnataka,Haveri,2023,Missing_Persons,Missing,146
+Karnataka,Kalaburagi,2023,Missing_Persons,Missing,130
+Karnataka,Kodagu,2023,Missing_Persons,Missing,80
+Karnataka,Kolar,2023,Missing_Persons,Missing,242
+Karnataka,Koppal,2023,Missing_Persons,Missing,73
+Karnataka,Mandya,2023,Missing_Persons,Missing,255
+Karnataka,Mysuru,2023,Missing_Persons,Missing,456
+Karnataka,Raichur,2023,Missing_Persons,Missing,88
+Karnataka,Ramanagara,2023,Missing_Persons,Missing,260
+Karnataka,Shivamogga,2023,Missing_Persons,Missing,328
+Karnataka,Tumakuru,2023,Missing_Persons,Missing,298
+Karnataka,Udupi,2023,Missing_Persons,Missing,136
+Karnataka,Uttara Kannada,2023,Missing_Persons,Missing,142
+Karnataka,Vijayanagara,2023,Missing_Persons,Missing,72
+Karnataka,Vijayapura,2023,Missing_Persons,Missing,172
+Karnataka,Yadgir,2023,Missing_Persons,Missing,33
+Karnataka,Ballari,2024,Missing_Persons,Missing,107
+Karnataka,Belagavi,2024,Missing_Persons,Missing,352
+Karnataka,Bengaluru Rural,2024,Missing_Persons,Missing,557
+Karnataka,Bengaluru Urban,2024,Missing_Persons,Missing,2704
+Karnataka,Bidar,2024,Missing_Persons,Missing,114
+Karnataka,Chamarajanagara,2024,Missing_Persons,Missing,157
+Karnataka,Chikkaballapura,2024,Missing_Persons,Missing,143
+Karnataka,Chikkamagaluru,2024,Missing_Persons,Missing,166
+Karnataka,Chitradurga,2024,Missing_Persons,Missing,270
+Karnataka,Dakshina Kannada,2024,Missing_Persons,Missing,196
+Karnataka,Davanagere,2024,Missing_Persons,Missing,269
+Karnataka,Dharwad,2024,Missing_Persons,Missing,274
+Karnataka,Gadag,2024,Missing_Persons,Missing,76
+Karnataka,Hassan,2024,Missing_Persons,Missing,225
+Karnataka,Haveri,2024,Missing_Persons,Missing,185
+Karnataka,Kalaburagi,2024,Missing_Persons,Missing,172
+Karnataka,Kodagu,2024,Missing_Persons,Missing,117
+Karnataka,Kolar,2024,Missing_Persons,Missing,227
+Karnataka,Koppal,2024,Missing_Persons,Missing,79
+Karnataka,Mandya,2024,Missing_Persons,Missing,258
+Karnataka,Mysuru,2024,Missing_Persons,Missing,508
+Karnataka,Raichur,2024,Missing_Persons,Missing,108
+Karnataka,Ramanagara,2024,Missing_Persons,Missing,297
+Karnataka,Shivamogga,2024,Missing_Persons,Missing,293
+Karnataka,Tumakuru,2024,Missing_Persons,Missing,381
+Karnataka,Udupi,2024,Missing_Persons,Missing,156
+Karnataka,Uttara Kannada,2024,Missing_Persons,Missing,148
+Karnataka,Vijayanagara,2024,Missing_Persons,Missing,81
+Karnataka,Vijayapura,2024,Missing_Persons,Missing,149
+Karnataka,Yadgir,2024,Missing_Persons,Missing,43
+Karnataka,Bagalkot,2021,Crime_Against_SC,SC,61
+Karnataka,Ballari,2021,Crime_Against_SC,SC,39
+Karnataka,Belagavi,2021,Crime_Against_SC,SC,71
+Karnataka,Bengaluru Rural,2021,Crime_Against_SC,SC,60
+Karnataka,Bengaluru Urban,2021,Crime_Against_SC,SC,166
+Karnataka,Bidar,2021,Crime_Against_SC,SC,19
+Karnataka,Chamarajanagara,2021,Crime_Against_SC,SC,16
+Karnataka,Chikkaballapura,2021,Crime_Against_SC,SC,55
+Karnataka,Chikkamagaluru,2021,Crime_Against_SC,SC,83
+Karnataka,Chitradurga,2021,Crime_Against_SC,SC,35
+Karnataka,Dakshina Kannada,2021,Crime_Against_SC,SC,55
+Karnataka,Davanagere,2021,Crime_Against_SC,SC,35
+Karnataka,Dharwad,2021,Crime_Against_SC,SC,43
+Karnataka,Gadag,2021,Crime_Against_SC,SC,19
+Karnataka,Hassan,2021,Crime_Against_SC,SC,118
+Karnataka,Haveri,2021,Crime_Against_SC,SC,33
+Karnataka,Kalaburagi,2021,Crime_Against_SC,SC,109
+Karnataka,Kodagu,2021,Crime_Against_SC,SC,24
+Karnataka,Kolar,2021,Crime_Against_SC,SC,68
+Karnataka,Koppal,2021,Crime_Against_SC,SC,30
+Karnataka,Mandya,2021,Crime_Against_SC,SC,52
+Karnataka,Mysuru,2021,Crime_Against_SC,SC,49
+Karnataka,Raichur,2021,Crime_Against_SC,SC,50
+Karnataka,Ramanagara,2021,Crime_Against_SC,SC,48
+Karnataka,Shivamogga,2021,Crime_Against_SC,SC,85
+Karnataka,Tumakuru,2021,Crime_Against_SC,SC,70
+Karnataka,Udupi,2021,Crime_Against_SC,SC,31
+Karnataka,Uttara Kannada,2021,Crime_Against_SC,SC,29
+Karnataka,Vijayapura,2021,Crime_Against_SC,SC,74
+Karnataka,Yadgir,2021,Crime_Against_SC,SC,44
+Karnataka,Bagalkot,2022,Crime_Against_SC,SC,58
+Karnataka,Ballari,2022,Crime_Against_SC,SC,20
+Karnataka,Belagavi,2022,Crime_Against_SC,SC,95
+Karnataka,Bengaluru Rural,2022,Crime_Against_SC,SC,88
+Karnataka,Bengaluru Urban,2022,Crime_Against_SC,SC,231
+Karnataka,Bidar,2022,Crime_Against_SC,SC,37
+Karnataka,Chamarajanagara,2022,Crime_Against_SC,SC,21
+Karnataka,Chikkaballapura,2022,Crime_Against_SC,SC,62
+Karnataka,Chikkamagaluru,2022,Crime_Against_SC,SC,97
+Karnataka,Chitradurga,2022,Crime_Against_SC,SC,52
+Karnataka,Dakshina Kannada,2022,Crime_Against_SC,SC,48
+Karnataka,Davanagere,2022,Crime_Against_SC,SC,52
+Karnataka,Dharwad,2022,Crime_Against_SC,SC,72
+Karnataka,Gadag,2022,Crime_Against_SC,SC,35
+Karnataka,Hassan,2022,Crime_Against_SC,SC,101
+Karnataka,Haveri,2022,Crime_Against_SC,SC,42
+Karnataka,Kalaburagi,2022,Crime_Against_SC,SC,103
+Karnataka,Kodagu,2022,Crime_Against_SC,SC,24
+Karnataka,Kolar,2022,Crime_Against_SC,SC,88
+Karnataka,Koppal,2022,Crime_Against_SC,SC,29
+Karnataka,Mandya,2022,Crime_Against_SC,SC,60
+Karnataka,Mysuru,2022,Crime_Against_SC,SC,59
+Karnataka,Raichur,2022,Crime_Against_SC,SC,60
+Karnataka,Ramanagara,2022,Crime_Against_SC,SC,68
+Karnataka,Shivamogga,2022,Crime_Against_SC,SC,102
+Karnataka,Tumakuru,2022,Crime_Against_SC,SC,84
+Karnataka,Udupi,2022,Crime_Against_SC,SC,44
+Karnataka,Uttara Kannada,2022,Crime_Against_SC,SC,16
+Karnataka,Vijayanagara,2022,Crime_Against_SC,SC,18
+Karnataka,Vijayapura,2022,Crime_Against_SC,SC,71
+Karnataka,Yadgir,2022,Crime_Against_SC,SC,40
+Karnataka,Bagalkot,2023,Crime_Against_SC,SC,37
+Karnataka,Ballari,2023,Crime_Against_SC,SC,19
+Karnataka,Belagavi,2023,Crime_Against_SC,SC,83
+Karnataka,Bengaluru Rural,2023,Crime_Against_SC,SC,88
+Karnataka,Bengaluru Urban,2023,Crime_Against_SC,SC,285
+Karnataka,Bidar,2023,Crime_Against_SC,SC,35
+Karnataka,Chamarajanagara,2023,Crime_Against_SC,SC,32
+Karnataka,Chikkaballapura,2023,Crime_Against_SC,SC,55
+Karnataka,Chikkamagaluru,2023,Crime_Against_SC,SC,75
+Karnataka,Chitradurga,2023,Crime_Against_SC,SC,36
+Karnataka,Dakshina Kannada,2023,Crime_Against_SC,SC,59
+Karnataka,Davanagere,2023,Crime_Against_SC,SC,65
+Karnataka,Dharwad,2023,Crime_Against_SC,SC,53
+Karnataka,Gadag,2023,Crime_Against_SC,SC,26
+Karnataka,Hassan,2023,Crime_Against_SC,SC,80
+Karnataka,Haveri,2023,Crime_Against_SC,SC,33
+Karnataka,Kalaburagi,2023,Crime_Against_SC,SC,91
+Karnataka,Kodagu,2023,Crime_Against_SC,SC,32
+Karnataka,Kolar,2023,Crime_Against_SC,SC,74
+Karnataka,Koppal,2023,Crime_Against_SC,SC,17
+Karnataka,Mandya,2023,Crime_Against_SC,SC,68
+Karnataka,Mysuru,2023,Crime_Against_SC,SC,86
+Karnataka,Raichur,2023,Crime_Against_SC,SC,47
+Karnataka,Ramanagara,2023,Crime_Against_SC,SC,93
+Karnataka,Shivamogga,2023,Crime_Against_SC,SC,92
+Karnataka,Tumakuru,2023,Crime_Against_SC,SC,81
+Karnataka,Udupi,2023,Crime_Against_SC,SC,35
+Karnataka,Uttara Kannada,2023,Crime_Against_SC,SC,31
+Karnataka,Vijayanagara,2023,Crime_Against_SC,SC,26
+Karnataka,Vijayapura,2023,Crime_Against_SC,SC,67
+Karnataka,Yadgir,2023,Crime_Against_SC,SC,22
+Karnataka,Bagalkot,2024,Crime_Against_SC,SC,49
+Karnataka,Ballari,2024,Crime_Against_SC,SC,26
+Karnataka,Belagavi,2024,Crime_Against_SC,SC,115
+Karnataka,Bengaluru Rural,2024,Crime_Against_SC,SC,107
+Karnataka,Bengaluru Urban,2024,Crime_Against_SC,SC,280
+Karnataka,Bidar,2024,Crime_Against_SC,SC,34
+Karnataka,Chamarajanagara,2024,Crime_Against_SC,SC,29
+Karnataka,Chikkaballapura,2024,Crime_Against_SC,SC,41
+Karnataka,Chikkamagaluru,2024,Crime_Against_SC,SC,43
+Karnataka,Chitradurga,2024,Crime_Against_SC,SC,44
+Karnataka,Dakshina Kannada,2024,Crime_Against_SC,SC,39
+Karnataka,Davanagere,2024,Crime_Against_SC,SC,51
+Karnataka,Dharwad,2024,Crime_Against_SC,SC,69
+Karnataka,Gadag,2024,Crime_Against_SC,SC,30
+Karnataka,Hassan,2024,Crime_Against_SC,SC,98
+Karnataka,Haveri,2024,Crime_Against_SC,SC,36
+Karnataka,Kalaburagi,2024,Crime_Against_SC,SC,108
+Karnataka,Kodagu,2024,Crime_Against_SC,SC,25
+Karnataka,Kolar,2024,Crime_Against_SC,SC,67
+Karnataka,Koppal,2024,Crime_Against_SC,SC,39
+Karnataka,Mandya,2024,Crime_Against_SC,SC,66
+Karnataka,Mysuru,2024,Crime_Against_SC,SC,54
+Karnataka,Raichur,2024,Crime_Against_SC,SC,52
+Karnataka,Ramanagara,2024,Crime_Against_SC,SC,53
+Karnataka,Shivamogga,2024,Crime_Against_SC,SC,109
+Karnataka,Tumakuru,2024,Crime_Against_SC,SC,102
+Karnataka,Udupi,2024,Crime_Against_SC,SC,43
+Karnataka,Uttara Kannada,2024,Crime_Against_SC,SC,41
+Karnataka,Vijayanagara,2024,Crime_Against_SC,SC,16
+Karnataka,Vijayapura,2024,Crime_Against_SC,SC,97
+Karnataka,Yadgir,2024,Crime_Against_SC,SC,51
+Karnataka,Bagalkot,2021,Special_Local_Laws,SLL,804
+Karnataka,Ballari,2021,Special_Local_Laws,SLL,2365
+Karnataka,Belagavi,2021,Special_Local_Laws,SLL,1844
+Karnataka,Bengaluru Rural,2021,Special_Local_Laws,SLL,737
+Karnataka,Bengaluru Urban,2021,Special_Local_Laws,SLL,14762
+Karnataka,Bidar,2021,Special_Local_Laws,SLL,756
+Karnataka,Chamarajanagara,2021,Special_Local_Laws,SLL,754
+Karnataka,Chikkaballapura,2021,Special_Local_Laws,SLL,1679
+Karnataka,Chikkamagaluru,2021,Special_Local_Laws,SLL,1033
+Karnataka,Chitradurga,2021,Special_Local_Laws,SLL,873
+Karnataka,Dakshina Kannada,2021,Special_Local_Laws,SLL,1091
+Karnataka,Davanagere,2021,Special_Local_Laws,SLL,1158
+Karnataka,Dharwad,2021,Special_Local_Laws,SLL,1715
+Karnataka,Gadag,2021,Special_Local_Laws,SLL,709
+Karnataka,Hassan,2021,Special_Local_Laws,SLL,1634
+Karnataka,Haveri,2021,Special_Local_Laws,SLL,817
+Karnataka,Kalaburagi,2021,Special_Local_Laws,SLL,1191
+Karnataka,Kodagu,2021,Special_Local_Laws,SLL,336
+Karnataka,Kolar,2021,Special_Local_Laws,SLL,690
+Karnataka,Koppal,2021,Special_Local_Laws,SLL,901
+Karnataka,Mandya,2021,Special_Local_Laws,SLL,1207
+Karnataka,Mysuru,2021,Special_Local_Laws,SLL,1934
+Karnataka,Raichur,2021,Special_Local_Laws,SLL,942
+Karnataka,Ramanagara,2021,Special_Local_Laws,SLL,942
+Karnataka,Shivamogga,2021,Special_Local_Laws,SLL,1642
+Karnataka,Tumakuru,2021,Special_Local_Laws,SLL,1909
+Karnataka,Udupi,2021,Special_Local_Laws,SLL,420
+Karnataka,Uttara Kannada,2021,Special_Local_Laws,SLL,1048
+Karnataka,Vijayapura,2021,Special_Local_Laws,SLL,1461
+Karnataka,Yadgir,2021,Special_Local_Laws,SLL,584
+Karnataka,Bagalkot,2022,Special_Local_Laws,SLL,735
+Karnataka,Ballari,2022,Special_Local_Laws,SLL,1434
+Karnataka,Belagavi,2022,Special_Local_Laws,SLL,1730
+Karnataka,Bengaluru Rural,2022,Special_Local_Laws,SLL,961
+Karnataka,Bengaluru Urban,2022,Special_Local_Laws,SLL,17521
+Karnataka,Bidar,2022,Special_Local_Laws,SLL,886
+Karnataka,Chamarajanagara,2022,Special_Local_Laws,SLL,668
+Karnataka,Chikkaballapura,2022,Special_Local_Laws,SLL,1743
+Karnataka,Chikkamagaluru,2022,Special_Local_Laws,SLL,1096
+Karnataka,Chitradurga,2022,Special_Local_Laws,SLL,1264
+Karnataka,Dakshina Kannada,2022,Special_Local_Laws,SLL,952
+Karnataka,Davanagere,2022,Special_Local_Laws,SLL,995
+Karnataka,Dharwad,2022,Special_Local_Laws,SLL,1675
+Karnataka,Gadag,2022,Special_Local_Laws,SLL,856
+Karnataka,Hassan,2022,Special_Local_Laws,SLL,1189
+Karnataka,Haveri,2022,Special_Local_Laws,SLL,767
+Karnataka,Kalaburagi,2022,Special_Local_Laws,SLL,1432
+Karnataka,Kodagu,2022,Special_Local_Laws,SLL,284
+Karnataka,Kolar,2022,Special_Local_Laws,SLL,730
+Karnataka,Koppal,2022,Special_Local_Laws,SLL,893
+Karnataka,Mandya,2022,Special_Local_Laws,SLL,781
+Karnataka,Mysuru,2022,Special_Local_Laws,SLL,1735
+Karnataka,Raichur,2022,Special_Local_Laws,SLL,1348
+Karnataka,Ramanagara,2022,Special_Local_Laws,SLL,1720
+Karnataka,Shivamogga,2022,Special_Local_Laws,SLL,1500
+Karnataka,Tumakuru,2022,Special_Local_Laws,SLL,1524
+Karnataka,Udupi,2022,Special_Local_Laws,SLL,566
+Karnataka,Uttara Kannada,2022,Special_Local_Laws,SLL,1202
+Karnataka,Vijayanagara,2022,Special_Local_Laws,SLL,1091
+Karnataka,Vijayapura,2022,Special_Local_Laws,SLL,1438
+Karnataka,Yadgir,2022,Special_Local_Laws,SLL,508
+Karnataka,Bagalkot,2023,Special_Local_Laws,SLL,985
+Karnataka,Ballari,2023,Special_Local_Laws,SLL,1386
+Karnataka,Belagavi,2023,Special_Local_Laws,SLL,2223
+Karnataka,Bengaluru Rural,2023,Special_Local_Laws,SLL,1853
+Karnataka,Bengaluru Urban,2023,Special_Local_Laws,SLL,26883
+Karnataka,Bidar,2023,Special_Local_Laws,SLL,1224
+Karnataka,Chamarajanagara,2023,Special_Local_Laws,SLL,717
+Karnataka,Chikkaballapura,2023,Special_Local_Laws,SLL,1223
+Karnataka,Chikkamagaluru,2023,Special_Local_Laws,SLL,1211
+Karnataka,Chitradurga,2023,Special_Local_Laws,SLL,1545
+Karnataka,Dakshina Kannada,2023,Special_Local_Laws,SLL,1651
+Karnataka,Davanagere,2023,Special_Local_Laws,SLL,1170
+Karnataka,Dharwad,2023,Special_Local_Laws,SLL,1860
+Karnataka,Gadag,2023,Special_Local_Laws,SLL,958
+Karnataka,Hassan,2023,Special_Local_Laws,SLL,1200
+Karnataka,Haveri,2023,Special_Local_Laws,SLL,885
+Karnataka,Kalaburagi,2023,Special_Local_Laws,SLL,1743
+Karnataka,Kodagu,2023,Special_Local_Laws,SLL,535
+Karnataka,Kolar,2023,Special_Local_Laws,SLL,1134
+Karnataka,Koppal,2023,Special_Local_Laws,SLL,927
+Karnataka,Mandya,2023,Special_Local_Laws,SLL,1032
+Karnataka,Mysuru,2023,Special_Local_Laws,SLL,1598
+Karnataka,Raichur,2023,Special_Local_Laws,SLL,1445
+Karnataka,Ramanagara,2023,Special_Local_Laws,SLL,1089
+Karnataka,Shivamogga,2023,Special_Local_Laws,SLL,1750
+Karnataka,Tumakuru,2023,Special_Local_Laws,SLL,1809
+Karnataka,Udupi,2023,Special_Local_Laws,SLL,877
+Karnataka,Uttara Kannada,2023,Special_Local_Laws,SLL,1035
+Karnataka,Vijayanagara,2023,Special_Local_Laws,SLL,1341
+Karnataka,Vijayapura,2023,Special_Local_Laws,SLL,1403
+Karnataka,Yadgir,2023,Special_Local_Laws,SLL,799
+Karnataka,Bagalkot,2024,Special_Local_Laws,SLL,921
+Karnataka,Ballari,2024,Special_Local_Laws,SLL,1387
+Karnataka,Belagavi,2024,Special_Local_Laws,SLL,2201
+Karnataka,Bengaluru Rural,2024,Special_Local_Laws,SLL,1607
+Karnataka,Bengaluru Urban,2024,Special_Local_Laws,SLL,22840
+Karnataka,Bidar,2024,Special_Local_Laws,SLL,874
+Karnataka,Chamarajanagara,2024,Special_Local_Laws,SLL,728
+Karnataka,Chikkaballapura,2024,Special_Local_Laws,SLL,1183
+Karnataka,Chikkamagaluru,2024,Special_Local_Laws,SLL,1062
+Karnataka,Chitradurga,2024,Special_Local_Laws,SLL,1366
+Karnataka,Dakshina Kannada,2024,Special_Local_Laws,SLL,1963
+Karnataka,Davanagere,2024,Special_Local_Laws,SLL,1302
+Karnataka,Dharwad,2024,Special_Local_Laws,SLL,1652
+Karnataka,Gadag,2024,Special_Local_Laws,SLL,932
+Karnataka,Hassan,2024,Special_Local_Laws,SLL,1103
+Karnataka,Haveri,2024,Special_Local_Laws,SLL,1001
+Karnataka,Kalaburagi,2024,Special_Local_Laws,SLL,1480
+Karnataka,Kodagu,2024,Special_Local_Laws,SLL,492
+Karnataka,Kolar,2024,Special_Local_Laws,SLL,797
+Karnataka,Koppal,2024,Special_Local_Laws,SLL,1021
+Karnataka,Mandya,2024,Special_Local_Laws,SLL,1156
+Karnataka,Mysuru,2024,Special_Local_Laws,SLL,1362
+Karnataka,Raichur,2024,Special_Local_Laws,SLL,1464
+Karnataka,Ramanagara,2024,Special_Local_Laws,SLL,805
+Karnataka,Shivamogga,2024,Special_Local_Laws,SLL,1825
+Karnataka,Tumakuru,2024,Special_Local_Laws,SLL,1862
+Karnataka,Udupi,2024,Special_Local_Laws,SLL,645
+Karnataka,Uttara Kannada,2024,Special_Local_Laws,SLL,906
+Karnataka,Vijayanagara,2024,Special_Local_Laws,SLL,1291
+Karnataka,Vijayapura,2024,Special_Local_Laws,SLL,1328
+Karnataka,Yadgir,2024,Special_Local_Laws,SLL,898
+Karnataka,Bagalkot,2021,Crime_Against_ST,ST,10
+Karnataka,Ballari,2021,Crime_Against_ST,ST,18
+Karnataka,Belagavi,2021,Crime_Against_ST,ST,22
+Karnataka,Bengaluru Rural,2021,Crime_Against_ST,ST,11
+Karnataka,Bengaluru Urban,2021,Crime_Against_ST,ST,12
+Karnataka,Bidar,2021,Crime_Against_ST,ST,6
+Karnataka,Chamarajanagara,2021,Crime_Against_ST,ST,7
+Karnataka,Chikkaballapura,2021,Crime_Against_ST,ST,18
+Karnataka,Chikkamagaluru,2021,Crime_Against_ST,ST,13
+Karnataka,Chitradurga,2021,Crime_Against_ST,ST,13
+Karnataka,Dakshina Kannada,2021,Crime_Against_ST,ST,14
+Karnataka,Davanagere,2021,Crime_Against_ST,ST,22
+Karnataka,Dharwad,2021,Crime_Against_ST,ST,19
+Karnataka,Gadag,2021,Crime_Against_ST,ST,10
+Karnataka,Hassan,2021,Crime_Against_ST,ST,7
+Karnataka,Haveri,2021,Crime_Against_ST,ST,20
+Karnataka,Kalaburagi,2021,Crime_Against_ST,ST,6
+Karnataka,Kodagu,2021,Crime_Against_ST,ST,4
+Karnataka,Kolar,2021,Crime_Against_ST,ST,4
+Karnataka,Koppal,2021,Crime_Against_ST,ST,18
+Karnataka,Mandya,2021,Crime_Against_ST,ST,2
+Karnataka,Mysuru,2021,Crime_Against_ST,ST,12
+Karnataka,Raichur,2021,Crime_Against_ST,ST,27
+Karnataka,Ramanagara,2021,Crime_Against_ST,ST,6
+Karnataka,Shivamogga,2021,Crime_Against_ST,ST,10
+Karnataka,Tumakuru,2021,Crime_Against_ST,ST,19
+Karnataka,Udupi,2021,Crime_Against_ST,ST,7
+Karnataka,Uttara Kannada,2021,Crime_Against_ST,ST,5
+Karnataka,Vijayapura,2021,Crime_Against_ST,ST,7
+Karnataka,Yadgir,2021,Crime_Against_ST,ST,12
+Karnataka,Bagalkot,2022,Crime_Against_ST,ST,17
+Karnataka,Ballari,2022,Crime_Against_ST,ST,16
+Karnataka,Belagavi,2022,Crime_Against_ST,ST,36
+Karnataka,Bengaluru Rural,2022,Crime_Against_ST,ST,4
+Karnataka,Bengaluru Urban,2022,Crime_Against_ST,ST,16
+Karnataka,Bidar,2022,Crime_Against_ST,ST,15
+Karnataka,Chamarajanagara,2022,Crime_Against_ST,ST,4
+Karnataka,Chikkaballapura,2022,Crime_Against_ST,ST,18
+Karnataka,Chikkamagaluru,2022,Crime_Against_ST,ST,10
+Karnataka,Chitradurga,2022,Crime_Against_ST,ST,13
+Karnataka,Dakshina Kannada,2022,Crime_Against_ST,ST,18
+Karnataka,Davanagere,2022,Crime_Against_ST,ST,15
+Karnataka,Dharwad,2022,Crime_Against_ST,ST,16
+Karnataka,Gadag,2022,Crime_Against_ST,ST,10
+Karnataka,Hassan,2022,Crime_Against_ST,ST,6
+Karnataka,Haveri,2022,Crime_Against_ST,ST,23
+Karnataka,Kalaburagi,2022,Crime_Against_ST,ST,7
+Karnataka,Kodagu,2022,Crime_Against_ST,ST,9
+Karnataka,Kolar,2022,Crime_Against_ST,ST,11
+Karnataka,Koppal,2022,Crime_Against_ST,ST,26
+Karnataka,Mandya,2022,Crime_Against_ST,ST,4
+Karnataka,Mysuru,2022,Crime_Against_ST,ST,13
+Karnataka,Raichur,2022,Crime_Against_ST,ST,30
+Karnataka,Ramanagara,2022,Crime_Against_ST,ST,6
+Karnataka,Shivamogga,2022,Crime_Against_ST,ST,20
+Karnataka,Tumakuru,2022,Crime_Against_ST,ST,26
+Karnataka,Udupi,2022,Crime_Against_ST,ST,15
+Karnataka,Uttara Kannada,2022,Crime_Against_ST,ST,6
+Karnataka,Vijayanagara,2022,Crime_Against_ST,ST,15
+Karnataka,Vijayapura,2022,Crime_Against_ST,ST,3
+Karnataka,Yadgir,2022,Crime_Against_ST,ST,10
+Karnataka,Bagalkot,2023,Crime_Against_ST,ST,9
+Karnataka,Ballari,2023,Crime_Against_ST,ST,10
+Karnataka,Belagavi,2023,Crime_Against_ST,ST,30
+Karnataka,Bengaluru Rural,2023,Crime_Against_ST,ST,11
+Karnataka,Bengaluru Urban,2023,Crime_Against_ST,ST,16
+Karnataka,Bidar,2023,Crime_Against_ST,ST,8
+Karnataka,Chamarajanagara,2023,Crime_Against_ST,ST,15
+Karnataka,Chikkaballapura,2023,Crime_Against_ST,ST,20
+Karnataka,Chikkamagaluru,2023,Crime_Against_ST,ST,9
+Karnataka,Chitradurga,2023,Crime_Against_ST,ST,16
+Karnataka,Dakshina Kannada,2023,Crime_Against_ST,ST,27
+Karnataka,Davanagere,2023,Crime_Against_ST,ST,26
+Karnataka,Dharwad,2023,Crime_Against_ST,ST,20
+Karnataka,Gadag,2023,Crime_Against_ST,ST,14
+Karnataka,Hassan,2023,Crime_Against_ST,ST,3
+Karnataka,Haveri,2023,Crime_Against_ST,ST,27
+Karnataka,Kalaburagi,2023,Crime_Against_ST,ST,5
+Karnataka,Kodagu,2023,Crime_Against_ST,ST,11
+Karnataka,Kolar,2023,Crime_Against_ST,ST,12
+Karnataka,Koppal,2023,Crime_Against_ST,ST,17
+Karnataka,Mandya,2023,Crime_Against_ST,ST,6
+Karnataka,Mysuru,2023,Crime_Against_ST,ST,14
+Karnataka,Raichur,2023,Crime_Against_ST,ST,34
+Karnataka,Ramanagara,2023,Crime_Against_ST,ST,1
+Karnataka,Shivamogga,2023,Crime_Against_ST,ST,15
+Karnataka,Tumakuru,2023,Crime_Against_ST,ST,17
+Karnataka,Udupi,2023,Crime_Against_ST,ST,11
+Karnataka,Uttara Kannada,2023,Crime_Against_ST,ST,3
+Karnataka,Vijayanagara,2023,Crime_Against_ST,ST,12
+Karnataka,Vijayapura,2023,Crime_Against_ST,ST,3
+Karnataka,Yadgir,2023,Crime_Against_ST,ST,12
+Karnataka,Bagalkot,2024,Crime_Against_ST,ST,9
+Karnataka,Ballari,2024,Crime_Against_ST,ST,10
+Karnataka,Belagavi,2024,Crime_Against_ST,ST,23
+Karnataka,Bengaluru Rural,2024,Crime_Against_ST,ST,6
+Karnataka,Bengaluru Urban,2024,Crime_Against_ST,ST,23
+Karnataka,Bidar,2024,Crime_Against_ST,ST,4
+Karnataka,Chamarajanagara,2024,Crime_Against_ST,ST,8
+Karnataka,Chikkaballapura,2024,Crime_Against_ST,ST,20
+Karnataka,Chikkamagaluru,2024,Crime_Against_ST,ST,7
+Karnataka,Chitradurga,2024,Crime_Against_ST,ST,13
+Karnataka,Dakshina Kannada,2024,Crime_Against_ST,ST,15
+Karnataka,Davanagere,2024,Crime_Against_ST,ST,19
+Karnataka,Dharwad,2024,Crime_Against_ST,ST,21
+Karnataka,Gadag,2024,Crime_Against_ST,ST,10
+Karnataka,Hassan,2024,Crime_Against_ST,ST,2
+Karnataka,Haveri,2024,Crime_Against_ST,ST,25
+Karnataka,Kalaburagi,2024,Crime_Against_ST,ST,9
+Karnataka,Kodagu,2024,Crime_Against_ST,ST,17
+Karnataka,Kolar,2024,Crime_Against_ST,ST,6
+Karnataka,Koppal,2024,Crime_Against_ST,ST,25
+Karnataka,Mandya,2024,Crime_Against_ST,ST,1
+Karnataka,Mysuru,2024,Crime_Against_ST,ST,17
+Karnataka,Raichur,2024,Crime_Against_ST,ST,26
+Karnataka,Ramanagara,2024,Crime_Against_ST,ST,1
+Karnataka,Shivamogga,2024,Crime_Against_ST,ST,4
+Karnataka,Tumakuru,2024,Crime_Against_ST,ST,23
+Karnataka,Udupi,2024,Crime_Against_ST,ST,5
+Karnataka,Uttara Kannada,2024,Crime_Against_ST,ST,9
+Karnataka,Vijayanagara,2024,Crime_Against_ST,ST,12
+Karnataka,Vijayapura,2024,Crime_Against_ST,ST,11
+Karnataka,Yadgir,2024,Crime_Against_ST,ST,12
+Karnataka,Bagalkot,2021,Crime_Against_Women,Women,279
+Karnataka,Ballari,2021,Crime_Against_Women,Women,445
+Karnataka,Belagavi,2021,Crime_Against_Women,Women,821
+Karnataka,Bengaluru Rural,2021,Crime_Against_Women,Women,376
+Karnataka,Bengaluru Urban,2021,Crime_Against_Women,Women,3127
+Karnataka,Bidar,2021,Crime_Against_Women,Women,196
+Karnataka,Chamarajanagara,2021,Crime_Against_Women,Women,272
+Karnataka,Chikkaballapura,2021,Crime_Against_Women,Women,365
+Karnataka,Chikkamagaluru,2021,Crime_Against_Women,Women,415
+Karnataka,Chitradurga,2021,Crime_Against_Women,Women,479
+Karnataka,Dakshina Kannada,2021,Crime_Against_Women,Women,391
+Karnataka,Davanagere,2021,Crime_Against_Women,Women,424
+Karnataka,Dharwad,2021,Crime_Against_Women,Women,287
+Karnataka,Gadag,2021,Crime_Against_Women,Women,133
+Karnataka,Hassan,2021,Crime_Against_Women,Women,578
+Karnataka,Haveri,2021,Crime_Against_Women,Women,222
+Karnataka,Kalaburagi,2021,Crime_Against_Women,Women,597
+Karnataka,Kodagu,2021,Crime_Against_Women,Women,152
+Karnataka,Kolar,2021,Crime_Against_Women,Women,293
+Karnataka,Koppal,2021,Crime_Against_Women,Women,206
+Karnataka,Mandya,2021,Crime_Against_Women,Women,576
+Karnataka,Mysuru,2021,Crime_Against_Women,Women,710
+Karnataka,Raichur,2021,Crime_Against_Women,Women,499
+Karnataka,Ramanagara,2021,Crime_Against_Women,Women,394
+Karnataka,Shivamogga,2021,Crime_Against_Women,Women,708
+Karnataka,Tumakuru,2021,Crime_Against_Women,Women,460
+Karnataka,Udupi,2021,Crime_Against_Women,Women,184
+Karnataka,Uttara Kannada,2021,Crime_Against_Women,Women,250
+Karnataka,Vijayapura,2021,Crime_Against_Women,Women,338
+Karnataka,Yadgir,2021,Crime_Against_Women,Women,284
+Karnataka,Bagalkot,2022,Crime_Against_Women,Women,318
+Karnataka,Ballari,2022,Crime_Against_Women,Women,273
+Karnataka,Belagavi,2022,Crime_Against_Women,Women,876
+Karnataka,Bengaluru Rural,2022,Crime_Against_Women,Women,709
+Karnataka,Bengaluru Urban,2022,Crime_Against_Women,Women,3924
+Karnataka,Bidar,2022,Crime_Against_Women,Women,283
+Karnataka,Chamarajanagara,2022,Crime_Against_Women,Women,270
+Karnataka,Chikkaballapura,2022,Crime_Against_Women,Women,410
+Karnataka,Chikkamagaluru,2022,Crime_Against_Women,Women,448
+Karnataka,Chitradurga,2022,Crime_Against_Women,Women,641
+Karnataka,Dakshina Kannada,2022,Crime_Against_Women,Women,426
+Karnataka,Davanagere,2022,Crime_Against_Women,Women,574
+Karnataka,Dharwad,2022,Crime_Against_Women,Women,350
+Karnataka,Gadag,2022,Crime_Against_Women,Women,137
+Karnataka,Hassan,2022,Crime_Against_Women,Women,650
+Karnataka,Haveri,2022,Crime_Against_Women,Women,338
+Karnataka,Kalaburagi,2022,Crime_Against_Women,Women,520
+Karnataka,Kodagu,2022,Crime_Against_Women,Women,186
+Karnataka,Kolar,2022,Crime_Against_Women,Women,453
+Karnataka,Koppal,2022,Crime_Against_Women,Women,330
+Karnataka,Mandya,2022,Crime_Against_Women,Women,610
+Karnataka,Mysuru,2022,Crime_Against_Women,Women,971
+Karnataka,Raichur,2022,Crime_Against_Women,Women,515
+Karnataka,Ramanagara,2022,Crime_Against_Women,Women,605
+Karnataka,Shivamogga,2022,Crime_Against_Women,Women,816
+Karnataka,Tumakuru,2022,Crime_Against_Women,Women,712
+Karnataka,Udupi,2022,Crime_Against_Women,Women,231
+Karnataka,Uttara Kannada,2022,Crime_Against_Women,Women,334
+Karnataka,Vijayanagara,2022,Crime_Against_Women,Women,257
+Karnataka,Vijayapura,2022,Crime_Against_Women,Women,404
+Karnataka,Yadgir,2022,Crime_Against_Women,Women,233
+Karnataka,Bagalkot,2023,Crime_Against_Women,Women,347
+Karnataka,Ballari,2023,Crime_Against_Women,Women,331
+Karnataka,Belagavi,2023,Crime_Against_Women,Women,875
+Karnataka,Bengaluru Rural,2023,Crime_Against_Women,Women,797
+Karnataka,Bengaluru Urban,2023,Crime_Against_Women,Women,4870
+Karnataka,Bidar,2023,Crime_Against_Women,Women,302
+Karnataka,Chamarajanagara,2023,Crime_Against_Women,Women,359
+Karnataka,Chikkaballapura,2023,Crime_Against_Women,Women,406
+Karnataka,Chikkamagaluru,2023,Crime_Against_Women,Women,489
+Karnataka,Chitradurga,2023,Crime_Against_Women,Women,703
+Karnataka,Dakshina Kannada,2023,Crime_Against_Women,Women,495
+Karnataka,Davanagere,2023,Crime_Against_Women,Women,629
+Karnataka,Dharwad,2023,Crime_Against_Women,Women,418
+Karnataka,Gadag,2023,Crime_Against_Women,Women,206
+Karnataka,Hassan,2023,Crime_Against_Women,Women,741
+Karnataka,Haveri,2023,Crime_Against_Women,Women,321
+Karnataka,Kalaburagi,2023,Crime_Against_Women,Women,637
+Karnataka,Kodagu,2023,Crime_Against_Women,Women,219
+Karnataka,Kolar,2023,Crime_Against_Women,Women,511
+Karnataka,Koppal,2023,Crime_Against_Women,Women,261
+Karnataka,Mandya,2023,Crime_Against_Women,Women,694
+Karnataka,Mysuru,2023,Crime_Against_Women,Women,1078
+Karnataka,Raichur,2023,Crime_Against_Women,Women,514
+Karnataka,Ramanagara,2023,Crime_Against_Women,Women,594
+Karnataka,Shivamogga,2023,Crime_Against_Women,Women,905
+Karnataka,Tumakuru,2023,Crime_Against_Women,Women,890
+Karnataka,Udupi,2023,Crime_Against_Women,Women,236
+Karnataka,Uttara Kannada,2023,Crime_Against_Women,Women,401
+Karnataka,Vijayanagara,2023,Crime_Against_Women,Women,387
+Karnataka,Vijayapura,2023,Crime_Against_Women,Women,476
+Karnataka,Yadgir,2023,Crime_Against_Women,Women,224
+Karnataka,Bagalkot,2024,Crime_Against_Women,Women,340
+Karnataka,Ballari,2024,Crime_Against_Women,Women,319
+Karnataka,Belagavi,2024,Crime_Against_Women,Women,828
+Karnataka,Bengaluru Rural,2024,Crime_Against_Women,Women,855
+Karnataka,Bengaluru Urban,2024,Crime_Against_Women,Women,4748
+Karnataka,Bidar,2024,Crime_Against_Women,Women,312
+Karnataka,Chamarajanagara,2024,Crime_Against_Women,Women,374
+Karnataka,Chikkaballapura,2024,Crime_Against_Women,Women,459
+Karnataka,Chikkamagaluru,2024,Crime_Against_Women,Women,454
+Karnataka,Chitradurga,2024,Crime_Against_Women,Women,784
+Karnataka,Dakshina Kannada,2024,Crime_Against_Women,Women,493
+Karnataka,Davanagere,2024,Crime_Against_Women,Women,605
+Karnataka,Dharwad,2024,Crime_Against_Women,Women,456
+Karnataka,Gadag,2024,Crime_Against_Women,Women,159
+Karnataka,Hassan,2024,Crime_Against_Women,Women,689
+Karnataka,Haveri,2024,Crime_Against_Women,Women,367
+Karnataka,Kalaburagi,2024,Crime_Against_Women,Women,623
+Karnataka,Kodagu,2024,Crime_Against_Women,Women,215
+Karnataka,Kolar,2024,Crime_Against_Women,Women,498
+Karnataka,Koppal,2024,Crime_Against_Women,Women,288
+Karnataka,Mandya,2024,Crime_Against_Women,Women,606
+Karnataka,Mysuru,2024,Crime_Against_Women,Women,965
+Karnataka,Raichur,2024,Crime_Against_Women,Women,523
+Karnataka,Ramanagara,2024,Crime_Against_Women,Women,526
+Karnataka,Shivamogga,2024,Crime_Against_Women,Women,817
+Karnataka,Tumakuru,2024,Crime_Against_Women,Women,858
+Karnataka,Udupi,2024,Crime_Against_Women,Women,248
+Karnataka,Uttara Kannada,2024,Crime_Against_Women,Women,442
+Karnataka,Vijayanagara,2024,Crime_Against_Women,Women,336
+Karnataka,Vijayapura,2024,Crime_Against_Women,Women,440
+Karnataka,Yadgir,2024,Crime_Against_Women,Women,301

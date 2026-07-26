@@ -1,0 +1,31 @@
+District,Population,Male_Population,Female_Population,Sex_Ratio,Literacy_Rate_Pct,Male_Literacy_Pct,Female_Literacy_Pct,Pop_Density_per_sqkm,Area_sqkm,Urban_Population_Pct,SC_Population_Pct,ST_Population_Pct,State,Census_Year,Source
+Bagalkot,1890826,963393,927433,962,67.01,75.53,57.95,183,10328,24.5,17.8,8.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Ballari,2532383,1293046,1239337,959,72.0,80.17,63.53,196,12899,37.4,22.0,13.2,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Belagavi,4779661,2432222,2347439,965,71.46,80.49,62.0,270,13415,28.8,13.3,6.4,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Bengaluru Rural,990923,508131,482792,950,83.47,88.72,77.8,317,2259,14.1,14.3,4.2,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Bengaluru Urban,9621551,5022661,4598890,916,87.67,91.01,83.86,4378,2190,91.8,11.6,2.7,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Bidar,1700018,864534,835484,966,69.58,78.36,60.4,260,5448,28.0,21.2,8.2,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Chamarajanagara,1020791,514934,505857,983,58.55,68.57,48.3,128,5685,16.5,16.1,16.2,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Chikkaballapura,1254377,638918,615459,963,76.04,83.75,68.0,304,4204,16.7,19.5,3.1,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Chikkamagaluru,1137961,573480,564481,984,79.98,86.13,73.65,108,7201,23.6,14.3,8.5,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Chitradurga,1660764,843564,817200,969,73.44,82.11,64.43,136,8440,23.9,22.0,10.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Dakshina Kannada,2089649,1041302,1048347,1006,88.62,92.49,84.8,390,4831,58.9,5.2,2.5,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Davanagere,1946905,984261,962644,978,73.78,82.06,65.22,281,5926,38.6,19.4,5.1,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Dharwad,1847023,937956,909067,969,79.82,87.48,71.76,348,4277,62.3,13.4,2.6,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Gadag,1065235,540272,524963,972,72.55,81.27,63.44,188,4656,34.2,18.6,3.6,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Hassan,1776221,891727,884494,991,76.26,83.53,68.93,164,6826,18.4,13.9,6.9,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Haveri,1598506,808063,790443,978,72.58,82.2,62.63,238,4848,22.5,17.2,3.8,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Kalaburagi,2566326,1304447,1261879,967,63.6,73.17,53.65,188,9877,32.5,22.4,9.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Kodagu,554762,278498,276264,992,82.46,87.22,77.64,62,4102,28.2,6.2,19.8,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Kolar,1540231,775932,764299,985,74.93,82.97,66.68,320,3968,24.4,20.8,2.4,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Koppal,1391292,705742,685550,971,62.78,73.24,51.93,172,6979,18.2,19.6,15.7,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Mandya,1808680,907918,900762,992,72.89,80.79,64.89,346,4175,15.9,15.2,4.3,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Mysuru,3001127,1515293,1485834,980,75.98,82.63,69.16,401,6007,42.1,14.0,7.4,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Raichur,1924773,983289,941484,957,60.29,70.26,49.85,148,8442,24.6,22.5,20.8,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Ramanagara,1082739,547316,535423,978,72.36,80.53,63.96,349,3510,15.3,18.6,4.8,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Shivamogga,1754236,878904,875332,996,80.37,86.67,73.99,156,8495,37.9,14.0,8.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Tumakuru,2678980,1351234,1327746,983,75.0,82.98,66.78,184,10597,22.5,18.4,5.8,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Udupi,1177361,570230,607131,1065,86.24,90.71,82.1,430,3880,47.1,5.5,3.7,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Uttara Kannada,1437169,721847,715322,991,80.96,87.59,74.22,63,10292,27.9,4.5,11.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Vijayapura,2175102,1106246,1068856,966,67.18,77.09,56.85,175,10494,27.2,16.9,5.9,Karnataka,2011,Census of India 2011 - Primary Census Abstract
+Yadgir,1172985,593668,579317,976,52.35,64.47,39.88,185,5069,17.0,22.7,15.0,Karnataka,2011,Census of India 2011 - Primary Census Abstract

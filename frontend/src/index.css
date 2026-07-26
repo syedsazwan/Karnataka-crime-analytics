@@ -1,0 +1,223 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #070E1E;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100vh;
+  }
+
+  /* Global Watermark Pseudo-Element on Body for All Pages */
+  body::before {
+    content: "";
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70vh;
+    height: 70vh;
+    max-width: 80vw;
+    max-height: 80vh;
+    background-image: url('/karnataka_emblem.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.06;
+    filter: blur(12px) grayscale(15%);
+    pointer-events: none;
+    z-index: 0;
+  }
+}
+
+/* Global Page Background Container with Soft Radial Lighting */
+.gov-bg-container {
+  position: relative;
+  min-height: 100vh;
+  background-color: #070E1E;
+  background-image: 
+    radial-gradient(circle at 50% 45%, rgba(30, 58, 138, 0.25) 0%, rgba(7, 14, 30, 0.05) 60%, transparent 80%),
+    radial-gradient(at 0% 0%, rgba(30, 58, 138, 0.12) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(15, 23, 42, 0.6) 0px, transparent 50%);
+  background-attachment: fixed;
+}
+
+.gov-bg-container > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #070E1E;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Leaflet Dark Mode Customization */
+.leaflet-container {
+  background-color: #070E1E !important;
+  font-family: 'Inter', sans-serif;
+  z-index: 1;
+}
+
+.leaflet-tile-pane {
+  filter: brightness(0.7) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.6);
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: #1E293B !important;
+  color: #FFFFFF !important;
+  border: 1px solid #334155 !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: #94A3B8 !important;
+  padding: 8px 8px 0 0 !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+  color: #FFFFFF !important;
+}
+
+/* Custom Marker Clusters */
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
+  background-color: rgba(37, 99, 235, 0.6) !important;
+}
+
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
+  background-color: rgba(37, 99, 235, 0.9) !important;
+  color: #FFFFFF !important;
+  font-weight: 700 !important;
+  font-family: 'Inter', sans-serif !important;
+}
+
+/* Premium Enterprise Glassmorphism Card Styling (18px Border Radius, 20px Padding, Glow & Lift on Hover) */
+.gov-card {
+  background-color: rgba(19, 30, 58, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(51, 65, 85, 0.6);
+  border-radius: 18px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.35);
+}
+
+.gov-card:hover {
+  border-color: rgba(59, 130, 246, 0.5);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.15);
+}
+
+/* Premium 22px Rounded Cyber Government Cards */
+.gov-card-22 {
+  background-color: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(51, 65, 85, 0.6);
+  border-radius: 22px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.5);
+}
+
+.gov-card-22:hover {
+  border-color: rgba(59, 130, 246, 0.6);
+  transform: translateY(-3px);
+  box-shadow: 0 15px 35px -5px rgba(37, 99, 235, 0.2), 0 0 15px rgba(139, 92, 246, 0.15);
+}
+
+/* Pulse indicator animation */
+@keyframes pulse-slow {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.05); }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* ========================================================================= */
+/* LIGHT THEME OVERRIDES                                                    */
+/* ========================================================================= */
+
+body.light-theme {
+  background-color: #F6F8FC !important;
+  color: #0F172A !important;
+}
+
+body.light-theme .gov-bg-container {
+  background-color: #F6F8FC !important;
+  background-image: none !important;
+}
+
+/* Cards, Navbar, Sidebar to White */
+body.light-theme .gov-card,
+body.light-theme .gov-card-22,
+body.light-theme [class*="bg-[#0F172A]"],
+body.light-theme [class*="bg-[#1E293B]"],
+body.light-theme [class*="bg-[#0B132B]"],
+body.light-theme [class*="bg-[#070E1E]"],
+body.light-theme [class*="bg-slate-900"],
+body.light-theme [class*="bg-slate-800"] {
+  background-color: #FFFFFF !important;
+  background-image: none !important;
+}
+
+/* Borders to #DCE3F0 */
+body.light-theme [class*="border-[#334155]"],
+body.light-theme [class*="border-[#1E293B]"],
+body.light-theme [class*="border-slate-800"],
+body.light-theme [class*="border-slate-700"] {
+  border-color: #DCE3F0 !important;
+}
+
+/* Primary Text */
+body.light-theme .text-white,
+body.light-theme .text-slate-100,
+body.light-theme .text-slate-200 {
+  color: #0F172A !important;
+}
+
+/* Secondary Text */
+body.light-theme .text-slate-300,
+body.light-theme .text-slate-400,
+body.light-theme .text-slate-500 {
+  color: #64748B !important;
+}
+
+/* Ensure Navy Blue Government buttons remain intact */
+body.light-theme button[class*="bg-gradient-to-r"] {
+  background-image: linear-gradient(to right, var(--tw-gradient-stops)) !important;
+  color: #FFFFFF !important;
+}
+
+/* Fix text transparency (for gradients) */
+body.light-theme .text-transparent {
+  color: transparent !important;
+}
+
+/* Chart Tooltips for Recharts */
+body.light-theme .recharts-tooltip-wrapper .recharts-default-tooltip {
+  background-color: #FFFFFF !important;
+  border-color: #DCE3F0 !important;
+}
+body.light-theme .recharts-tooltip-item {
+  color: #0F172A !important;
+}
